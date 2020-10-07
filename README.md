@@ -24,7 +24,7 @@ phenomena and gain knowledge of the fundamental workings of a system under inves
 > At the base of scientific research lies the notion that an experimental outcome is a random variable, and that appropriate statistical machinery must be employed to estimate the properties of its
 distribution... Since abundant sampling of observations might be prohibitive due to resource constraints, the role of statistical uncertainties accompanying the measurement becomes vital to interpret the result.
 
-### Philosophy and the Practice of Machine Learning 
+### Philosophy and the Practice of Bayesian Statistics
 
 > Bayesian statistics or “inverse probability”—starting with a prior distribution, getting data, and moving to the posterior distribution—is associated with an inductive approach of learning about the general from particulars.
 
@@ -44,3 +44,5 @@ and devise a test statistic which is sensitive to this sort of mis-specification
 > A model is a story of how the data could have been generated; the fitted model should therefore be able to generate synthetic data that look like the real data; failures to do so in important ways indicate faults in the model.
 
 > There are technical problems with methods that purport to determine the posterior probability of models, most notably that in models with continuous parameters, aspects of the model that have essentially no effect on posterior inferences within a model can have huge effects on the comparison of posterior probability among models.
+
+> Complex models can and should be checked and falsified.
