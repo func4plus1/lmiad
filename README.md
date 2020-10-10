@@ -1,3 +1,5 @@
+> "If a machine is expected to be infallible, it cannot also be intelligent.”  - Alan Turing
+
 # References
 
 (2020) [The Well Archicted Framework - Machine Learning Lens](https://d1.awsstatic.com/whitepapers/architecture/wellarchitected-Machine-Learning-Lens.pdf)
