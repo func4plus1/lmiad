@@ -39,15 +39,18 @@ Questions to ask:
 * MLSEC 02 : How are you protecting and monitoring access to sensitive data used in your ML workloads?
 * MLSEC 03: How are you protecting trained ML models?
 <br>
+
 * MLREL 01: How do you manage changes to your machine learning models and prediction endpoints?
 * MLREL 02: How are changes to ML models coordinated across your workload?
 * MLREL 03: How are you scaling endpoints hosting models for predictions? 
 * MLREL 04: How do you recover from failure or inadvertent loss of a trained ML model? 
 * MLREL 05: How do you recover from failure or inadvertent loss of model hosting resources? 
 <br>
+
 * MLPER 01: How are you choosing the most appropriate instance type for training and hosting your models?
 * MLPER 02: How do you scale your ML workload while maintaining optimal performance?
 <br>
+
 * MLCOST 01: How do you optimize data labeling costs?
 * MLCOST 02: How do you optimize costs during ML experimentation?
 * MLCOST 03: How do you select the most cost optimal resources for ML training?
