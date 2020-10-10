@@ -161,7 +161,7 @@ distribution... Since abundant sampling of observations might be prohibitive due
 
 ---
 
-## (2019) [Federated Machine Learning Concept and Application)](https://arxiv.org/pdf/1902.04885.pdf)
+## (2019) [Federated Machine Learning Concept and Application](https://arxiv.org/pdf/1902.04885.pdf)
 
 **Secure Multi-party Computation**
 
