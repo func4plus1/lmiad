@@ -11,7 +11,7 @@ chosen to frame Artificial Intelligence over the course of their editions
 has had great influence on how AI has evolved. 
 
 Which chapters they included, removed, expanded, shrank; which theories they championed or ignored; has had
-a profound effect on the conversation and ultimately our understanding around what Artificial Intelligence is and can be.
+a profound effect on the conversation and ultimately our understanding around what Artificial Intelligence can and should be.
 
 When it is asked: "What is Artifical Intelligence?", it is possible that the
 answer is in the pages of the four editions of this seminal work. As the
