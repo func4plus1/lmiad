@@ -101,7 +101,7 @@ Records](https://arxiv.org/ftp/arxiv/papers/1903/1903.09296.pdf)
 
 (1943) [A Logical Calculus of the Ideas Immanent in Nervous Activity](https://web.csulb.edu/~cwallis/382/readings/482/mccolloch.logical.calculus.ideas.1943.pdf)
 
-(1942) [Some Observations on the Simple Neuron Circuit](https://doi.org/10.1007/BF02477942]
+(1942) [Some Observations on the Simple Neuron Circuit](https://doi.org/10.1007/BF02477942)
 
 (1933) [Foundations of the Theory of Probability](https://www.york.ac.uk/depts/maths/histstat/kolmogorov_foundations.pdf)
 
