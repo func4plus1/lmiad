@@ -1,55 +1,3 @@
-# Federated Machine Learning
-
-**Secure Multi-party Computation**
-
-provide security proof in a well-defined simulation framework to guarantee complete zeroknowledge, that is, each party knows nothing except its input and output.
-
-**Differential Privacy**
-
-Adding noise to the data, or using generalization methods to obscurecertain sensitive attributes until the third party cannot distinguish the individual, thereby makingthe data impossible to be restore to protect user privacy
-
-**Homomorphic Encryption**
-
-Homomorphic Encryption adopted to protect user data privacy through parameter exchange under the encryption mechanism during machine learning. Unlike differential privacy protection, the data and the model itself are not transmitted, nor can they be guessed by the other party’s data.
-
-**Horizontal federated learning** or sample-based federated learning, 
-
-introduced in the scenarios that data sets share the same feature space but different samples
-
-A horizontal federated learning system typically assumes honest participantsand security against a honest-but-curious server
-
-example two banks in different regions 
-
-k participants with the same data structure collaborativelylearn a machine learning model with the help of a parameter or cloud server
-
-* Step 1: participants locally compute training gradients, mask a selection of gradients withencryption  differential privacy  or secret sharing techniques, and send maskedresults to server
-* Step 2: Server performs secure aggregation without learning information about any participant;
-* Step 3: Server send back the aggregated results to participants
-* Step 4: Participants update their respective model with the decrypted gradients
-
-**Vertical federated learning** or feature-based federated learning
-
- Is applicable to the cases that two data sets share the same sample ID space but differ in feature space. 
- 
- example a bank and an ecommerce company in the same city have the same sample probably
- 
- At the end of learning, each party only holds the model parameters associated to its own features, therefore at inference time, the two parties also need to collaborate to generate output.
- 
- Part 1.Encrypted entity alignment. 
- 
- Part 2. Encrypted model training: 
- 
- * Step 1: collaborator C creates encryption pairs, send public key to A and B
- * Step 2: A and B encrypt and exchange the intermediate results for gradient and loss calculations
- * Step 3: A and B computes encrypted gradients and adds additional mask, respectively, and B also computes encrypted loss; A and B send encrypted values to C
- * Step 4: C decrypts and send the decrypted gradients and loss back to A and B; A and B unmask the gradients, update the model parameters accordingly.
- 
-**Federated Transfer Learning** applies to the scenarios that the two data sets differ not only in samples but also in feature space
-
-a common representation between the two feature space is learned using the limited common sample sets andl ater applied to obtain predictions for samples with only one-side features.
-
----
-
 ## References
 
 (2020) [The Well Archicted Framework - Machine Learning Lens](https://d1.awsstatic.com/whitepapers/architecture/wellarchitected-Machine-Learning-Lens.pdf)
@@ -210,7 +158,7 @@ phenomena and gain knowledge of the fundamental workings of a system under inves
 > At the base of scientific research lies the notion that an experimental outcome is a random variable, and that appropriate statistical machinery must be employed to estimate the properties of its
 distribution... Since abundant sampling of observations might be prohibitive due to resource constraints, the role of statistical uncertainties accompanying the measurement becomes vital to interpret the result.
 
-### Philosophy and the Practice of Bayesian Statistics
+### (2011) [Philosophy and the practice of Bayesian statistics](http://www.stat.columbia.edu/~gelman/research/unpublished/philosophy.pdf)
 
 > Bayesian statistics or “inverse probability”—starting with a prior distribution, getting data, and moving to the posterior distribution—is associated with an inductive approach of learning about the general from particulars.
 
@@ -232,6 +180,58 @@ and devise a test statistic which is sensitive to this sort of mis-specification
 > There are technical problems with methods that purport to determine the posterior probability of models, most notably that in models with continuous parameters, aspects of the model that have essentially no effect on posterior inferences within a model can have huge effects on the comparison of posterior probability among models.
 
 > Complex models can and should be checked and falsified.
+
+---
+
+# (2019) [Federated Machine Learning Concept and Application)](https://arxiv.org/pdf/1902.04885.pdf)
+
+**Secure Multi-party Computation**
+
+provide security proof in a well-defined simulation framework to guarantee complete zeroknowledge, that is, each party knows nothing except its input and output.
+
+**Differential Privacy**
+
+Adding noise to the data, or using generalization methods to obscurecertain sensitive attributes until the third party cannot distinguish the individual, thereby makingthe data impossible to be restore to protect user privacy
+
+**Homomorphic Encryption**
+
+Homomorphic Encryption adopted to protect user data privacy through parameter exchange under the encryption mechanism during machine learning. Unlike differential privacy protection, the data and the model itself are not transmitted, nor can they be guessed by the other party’s data.
+
+**Horizontal federated learning** or sample-based federated learning, 
+
+introduced in the scenarios that data sets share the same feature space but different samples
+
+A horizontal federated learning system typically assumes honest participantsand security against a honest-but-curious server
+
+example two banks in different regions 
+
+k participants with the same data structure collaborativelylearn a machine learning model with the help of a parameter or cloud server
+
+* Step 1: participants locally compute training gradients, mask a selection of gradients withencryption  differential privacy  or secret sharing techniques, and send maskedresults to server
+* Step 2: Server performs secure aggregation without learning information about any participant;
+* Step 3: Server send back the aggregated results to participants
+* Step 4: Participants update their respective model with the decrypted gradients
+
+**Vertical federated learning** or feature-based federated learning
+
+ Is applicable to the cases that two data sets share the same sample ID space but differ in feature space. 
+ 
+ example a bank and an ecommerce company in the same city have the same sample probably
+ 
+ At the end of learning, each party only holds the model parameters associated to its own features, therefore at inference time, the two parties also need to collaborate to generate output.
+ 
+ Part 1.Encrypted entity alignment. 
+ 
+ Part 2. Encrypted model training: 
+ 
+ * Step 1: collaborator C creates encryption pairs, send public key to A and B
+ * Step 2: A and B encrypt and exchange the intermediate results for gradient and loss calculations
+ * Step 3: A and B computes encrypted gradients and adds additional mask, respectively, and B also computes encrypted loss; A and B send encrypted values to C
+ * Step 4: C decrypts and send the decrypted gradients and loss back to A and B; A and B unmask the gradients, update the model parameters accordingly.
+ 
+**Federated Transfer Learning** applies to the scenarios that the two data sets differ not only in samples but also in feature space
+
+a common representation between the two feature space is learned using the limited common sample sets andl ater applied to obtain predictions for samples with only one-side features.
 
 ## Important Code
 
