@@ -70,6 +70,10 @@ The end-to-end machine learning process includes the following phases:
 
 ![End To End ML Pipeline According to Amazon](end2endml.png)
 
+![Blue Green Deployment](bluegreendeployment.png)
+
+![Canary Deployment](canarydeployment.png)
+
 ### [The Scientific Method in the Science of Machine Learning](https://arxiv.org/pdf/1904.10922.pdf)
 
 > We conjecture that grounding ML research in statistically sound hypothesis testing with careful control of nuisance parameters may encourage the publication of advances that
