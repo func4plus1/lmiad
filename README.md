@@ -72,9 +72,12 @@ The end-to-end machine learning process includes the following phases:
 
 ![Blue Green Deployment](bluegreendeployment.png)
 
-![Canary Deployment](canarydeployment.png)
+<br>
 
 Canary Deployment
+
+![Canary Deployment](canarydeployment.png)
+
 
 ### [The Scientific Method in the Science of Machine Learning](https://arxiv.org/pdf/1904.10922.pdf)
 
