@@ -26,31 +26,31 @@ The Machine Learning Jouney often has three major outposts:
   
 Questions to ask:
 
-MLOPS 01: How have you prepared your team to operate and support a machine learning workload? 
-MLOPS 02: How are you documenting model creation activities? 
-MLOPS 03: How are you tracking model lineage?
-MLOPS 04: How have you automated the development and deployment pipeline for your ML workload?
-MLOPS 05: How are you monitoring and logging model hosting activities?
-MLOPS 06: How do you know when to retrain ML models with new or updated data?
-MLOPS 07: How do you incorporate learnings between iterations of model development, model training, and model hosting?
+* MLOPS 01: How have you prepared your team to operate and support a machine learning workload? 
+* MLOPS 02: How are you documenting model creation activities? 
+* MLOPS 03: How are you tracking model lineage?
+* MLOPS 04: How have you automated the development and deployment pipeline for your ML workload?
+* MLOPS 05: How are you monitoring and logging model hosting activities?
+* MLOPS 06: How do you know when to retrain ML models with new or updated data?
+* MLOPS 07: How do you incorporate learnings between iterations of model development, model training, and model hosting?
 
-MLSEC 01: How do you control access to your ML workload?
-MLSEC 02 : How are you protecting and monitoring access to sensitive data used in your ML workloads?
-MLSEC 03: How are you protecting trained ML models?
+* MLSEC 01: How do you control access to your ML workload?
+* MLSEC 02 : How are you protecting and monitoring access to sensitive data used in your ML workloads?
+* MLSEC 03: How are you protecting trained ML models?
 
-MLREL 01: How do you manage changes to your machine learning models and prediction endpoints?
-MLREL 02: How are changes to ML models coordinated across your workload?
-MLREL 03: How are you scaling endpoints hosting models for predictions? 
-MLREL 04: How do you recover from failure or inadvertent loss of a trained ML model? 
-MLREL 05: How do you recover from failure or inadvertent loss of model hosting resources? 
+* MLREL 01: How do you manage changes to your machine learning models and prediction endpoints?
+* MLREL 02: How are changes to ML models coordinated across your workload?
+* MLREL 03: How are you scaling endpoints hosting models for predictions? 
+* MLREL 04: How do you recover from failure or inadvertent loss of a trained ML model? 
+* MLREL 05: How do you recover from failure or inadvertent loss of model hosting resources? 
 
-MLPER 01: How are you choosing the most appropriate instance type for training and hosting your models?
-MLPER 02: How do you scale your ML workload while maintaining optimal performance?
+* MLPER 01: How are you choosing the most appropriate instance type for training and hosting your models?
+* MLPER 02: How do you scale your ML workload while maintaining optimal performance?
 
-MLCOST 01: How do you optimize data labeling costs?
-MLCOST 02: How do you optimize costs during ML experimentation?
-MLCOST 03: How do you select the most cost optimal resources for ML training?
-MLCOST 04: How do you optimize cost for ML Inference?
+* MLCOST 01: How do you optimize data labeling costs?
+* MLCOST 02: How do you optimize costs during ML experimentation?
+* MLCOST 03: How do you select the most cost optimal resources for ML training?
+* MLCOST 04: How do you optimize cost for ML Inference?
 
 ### [The Scientific Method in the Science of Machine Learning](https://arxiv.org/pdf/1904.10922.pdf)
 
