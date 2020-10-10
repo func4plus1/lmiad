@@ -336,9 +336,11 @@ Annoy [Repository](https://github.com/spotify/annoy)
 
 Doc Product -- Medical Q&A with Deep Language Models [Repository](https://github.com/re-search/DocProduct)
 
+---
+
 ## Interesting Data
 
-(2019) Preprocessed PubMed Text: [Paper](https://arxiv.org/pdf/1906.05474.pdf) [Code](https://github.com/ncbi-nlp/BlueBERT/blob/master/README.md#pubmed)
+(2019) Preprocessed PubMed Text: [Paper](https://arxiv.org/pdf/1906.05474.pdf) | [Code](https://github.com/ncbi-nlp/BlueBERT/blob/master/README.md#pubmed)
 
 ---
 
