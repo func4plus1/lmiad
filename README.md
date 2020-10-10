@@ -1,22 +1,19 @@
 > "If a machine is expected to be infallible, it cannot also be intelligent.”  - Alan Turing
 
-# "What is Artificial Intelligence"
+# What is Artificial Intelligence
 
 *[Artificial Intelligence: A Modern
 Approach](http://aima.cs.berkeley.edu/index.html)* is the primary textbook through
-which scores of new researchers have first dipped their toes into the cool replicant waters over
-the last three+ decades.
-
-![Rutger Hauer](/images/bladerunner.gif)
+which scores of new researchers have first dipped their toes into "AI" waters.
 
 The manner in which [Peter Norvig](https://norvig.com/) and [Stuart Russell](http://people.eecs.berkeley.edu/~russell/) have
-chosen to frame Artificial Intelligence over the course of their books editions
-has had great influence on how AI has evolved. Which chapters they included,
-removed, expanded, shrank; which theories they championed or ignored has had
-a great effect on the conversation and ultimately our understanding of what
-Artificial Intelligence is and can be.
+chosen to frame Artificial Intelligence over the course of their editions
+has had great influence on how AI has evolved. 
 
-When it is asked: What is Artifical Intelligence, it is possible that the
+Which chapters they included, removed, expanded, shrank; which theories they championed or ignored; has had
+a profound effect on the conversation and ultimately our understanding around what Artificial Intelligence is and can be.
+
+When it is asked: "What is Artifical Intelligence?", it is possible that the
 answer is in the pages of the four editions of this seminal work. As the
 website for the book states: "THe leading textbook in Artifical Intelligence,
 used in over 1400 schools in over 120 countries."
@@ -34,8 +31,9 @@ thyself":
 
 Wheras *AIMA* edition one makes such claims as "All the researcher has to do is look
 in the mirror to see an example of an intelligent system", edition two of
-*AIMA* replaces a human-centered approach with a rationality in which at its core "AI systematizes and automates intellectual
-tasks."
+*AIMA* replaces a human-centered approach with a rationality in which at its core 
+
+> "AI systematizes and automates intellectual tasks."
 
 
 # References
