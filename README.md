@@ -8,7 +8,11 @@
 
 (2019) [Managing Machine Learning Projects - Balance Potential With the Need for Guardrails](https://d1.awsstatic.com/whitepapers/aws-managing-ml-projects.pdf)
 
+(2018) [Optimizing Revenue Over Data Driven Assortments](https://arxiv.org/pdf/1708.05510.pdf)
+
 (2017) [Attention is All You Need](https://arxiv.org/pdf/1706.03762.pdf) 
+
+(2012) [Approximate Nearest Neighbor: Towards Reducing the Curse of Dimensionality]
 
 (2011) [Philosophy and the practice of Bayesian statistics](http://www.stat.columbia.edu/~gelman/research/unpublished/philosophy.pdf)
 
@@ -157,3 +161,10 @@ and devise a test statistic which is sensitive to this sort of mis-specification
 > There are technical problems with methods that purport to determine the posterior probability of models, most notably that in models with continuous parameters, aspects of the model that have essentially no effect on posterior inferences within a model can have huge effects on the comparison of posterior probability among models.
 
 > Complex models can and should be checked and falsified.
+
+
+### Concepts
+
+Cross Validation 
+* [Video Explanation](https://www.youtube.com/embed/TIgfjmp-4BA)
+* K-Fold (Leave One Out) [Video Explained](https://www.youtube.com/embed/6dbrR-WymjI)
