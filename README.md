@@ -23,6 +23,38 @@ The Machine Learning Jouney often has three major outposts:
   *  heavy lifting of infrastructure management is managed by the cloud vendor, so that your data science teams can focus on what they do best.
 * ML Frameworks and Infrastructure 
   * Design your own tools and workflows to build, train, tune, and deploy models, working at the framework and infrastructure level. 
+
+**Operation Excellence** For Machine Learning:
+  * Establish cross functional teams
+  * Identify the end-to-end architecture and operational model early
+  * Continuously monitor and measure ML workloads
+  * Establish a model retraining strategy
+  * Document machine learning discovery activities and findings
+  * Version machine learning inputs and artifacts
+  * Automate machine learning deployment pipelines
+ 
+**Security** for Machine Leanring:
+  * Restrict Access to ML systems
+  * Ensure Data Governance
+  * Enforce Data Lineage
+  * Enforce Regulatory Compliance
+  
+**Reliability** for Machine Learning: 
+  *  Manage changes to model inputs through automation
+  * Train once and deploy across environments
+
+**Performance Efficiency** for Machine Learning:
+  * Optimize compute for your ML workload
+  * Define latency and network bandwidth performance requirements for your models
+  * Continuously monitor and measure system performance
+
+**Cost Optimization** for Machine Learning:
+  * Automate to reduce cost of ownership
+  * Experiment with small datasets
+  * Right size training and model hosting instances
+  * Account for inference architecture based on consumption patterns
+  * Define overall ROI and opportunity cost
+  
   
 Questions to ask:
 
