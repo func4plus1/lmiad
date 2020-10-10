@@ -7,7 +7,7 @@ Approach](http://aima.cs.berkeley.edu/index.html)* is the primary textbook throu
 which scores of new researchers have first dipped their toes into "AI" waters. 
 When it is asked: "What is Artifical Intelligence?", it is possible that the
 answer is in the pages of the four editions of this seminal work. As the
-website for the book states: "THe leading textbook in Artifical Intelligence,
+website for the book states: "The leading textbook in Artifical Intelligence,
 used in over 1400 schools in over 120 countries."
 
 The manner in which [Peter Norvig](https://norvig.com/) and [Stuart Russell](http://people.eecs.berkeley.edu/~russell/) have
