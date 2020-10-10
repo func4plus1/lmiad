@@ -330,7 +330,7 @@ and devise a test statistic which is sensitive to this sort of mis-specification
 ---
 
 
-## Important/Interesting Code
+## Interesting Code
 
 Annoy [Repository](https://github.com/spotify/annoy)
 
