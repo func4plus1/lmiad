@@ -39,7 +39,7 @@ Records](https://arxiv.org/ftp/arxiv/papers/1903/1903.09296.pdf)
 
 ## Notes 
 
-### [The Well Archicted Framework - Machine Learning Lens](https://d1.awsstatic.com/whitepapers/architecture/wellarchitected-Machine-Learning-Lens.pdf)
+(2020) [The Well Archicted Framework - Machine Learning Lens](https://d1.awsstatic.com/whitepapers/architecture/wellarchitected-Machine-Learning-Lens.pdf)
 
 The Machine Learning Jouney often has three major outposts:
 
@@ -139,8 +139,9 @@ The end-to-end machine learning process includes the following phases:
 
 ![Canary Deployment](canarydeployment.png)
 
+---
 
-### [The Scientific Method in the Science of Machine Learning](https://arxiv.org/pdf/1904.10922.pdf)
+(2019) [The Scientific Method in the Science of Machine Learning](https://arxiv.org/pdf/1904.10922.pdf)
 
 > We conjecture that grounding ML research in statistically sound hypothesis testing with careful control of nuisance parameters may encourage the publication of advances that
 stand the test of time.
@@ -158,7 +159,9 @@ phenomena and gain knowledge of the fundamental workings of a system under inves
 > At the base of scientific research lies the notion that an experimental outcome is a random variable, and that appropriate statistical machinery must be employed to estimate the properties of its
 distribution... Since abundant sampling of observations might be prohibitive due to resource constraints, the role of statistical uncertainties accompanying the measurement becomes vital to interpret the result.
 
-### (2011) [Philosophy and the practice of Bayesian statistics](http://www.stat.columbia.edu/~gelman/research/unpublished/philosophy.pdf)
+---
+
+(2011) [Philosophy and the practice of Bayesian statistics](http://www.stat.columbia.edu/~gelman/research/unpublished/philosophy.pdf)
 
 > Bayesian statistics or “inverse probability”—starting with a prior distribution, getting data, and moving to the posterior distribution—is associated with an inductive approach of learning about the general from particulars.
 
@@ -183,7 +186,7 @@ and devise a test statistic which is sensitive to this sort of mis-specification
 
 ---
 
-# (2019) [Federated Machine Learning Concept and Application)](https://arxiv.org/pdf/1902.04885.pdf)
+(2019) [Federated Machine Learning Concept and Application)](https://arxiv.org/pdf/1902.04885.pdf)
 
 **Secure Multi-party Computation**
 
