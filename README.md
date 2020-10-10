@@ -37,6 +37,22 @@ Records](https://arxiv.org/ftp/arxiv/papers/1903/1903.09296.pdf)
 
 (1998) [A Beginners Guide to the Mathematics of Neural Networks](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.161.3556&rep=rep1&type=pdf&fbclid=IwAR1jmZJ3FBqcNLKbkyKXV3nZ3LaT12M6RoE4gW70TUrLrp-7WJe5LvjQkn4)
 
+(1988) Probabilistic Reasoning in Intelligent Systems: Networks of Plausible Inference - Judea Pearl
+
+(1984) Heuristics: Intelligent Search Strategies for Computer Problem Solving - Judea Pearl
+
+(1969) Perceptrons: An Introdcution to Computational Geometry - Marvin Minsky
+
+(1950) The Human Use Of Human Beings - Norbert Wiener
+
+(1950) Computing Machinery and Intelligence - Alan Turing 
+
+(1948) Cybernetics - Norbert Wiener
+
+(1944) Theory of Games and Economic Behavior - Von Neuman & Morgenstern
+
+(1943) A Logical calculus of the ideas immanent in nervous activity - Mculloh & Pitts
+
 # Notes 
 
 ## (2020) [The Well Archicted Framework - Machine Learning Lens](https://d1.awsstatic.com/whitepapers/architecture/wellarchitected-Machine-Learning-Lens.pdf)
