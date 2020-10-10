@@ -10,6 +10,48 @@
 
 ## Notes 
 
+### [The Well Archicted Framework - Machine Learning Lens](https://d1.awsstatic.com/whitepapers/architecture/wellarchitected-Machine-Learning-Lens.pdf)
+
+The Machine Learning Jouney often has three major outposts:
+
+* AI Services
+  *  Fully managed services that enable you to quickly add ML capabilities to your workloads using API calls.
+  * Services at this level are based on pre-trained or automatically trained machine learning and deep learning models, so that you don’t need ML knowledge to use them.
+* ML Services
+  * Managed services and resources for machine learning to developers, data scientists, and researchers.
+  * Label data, build, train, deploy, and operate custom ML models without having to worry about the underlying infrastructure needs.
+  *  heavy lifting of infrastructure management is managed by the cloud vendor, so that your data science teams can focus on what they do best.
+* ML Frameworks and Infrastructure 
+  * Design your own tools and workflows to build, train, tune, and deploy models, working at the framework and infrastructure level. 
+  
+Questions to ask:
+
+MLOPS 01: How have you prepared your team to operate and support a machine learning workload? 
+MLOPS 02: How are you documenting model creation activities? 
+MLOPS 03: How are you tracking model lineage?
+MLOPS 04: How have you automated the development and deployment pipeline for your ML workload?
+MLOPS 05: How are you monitoring and logging model hosting activities?
+MLOPS 06: How do you know when to retrain ML models with new or updated data?
+MLOPS 07: How do you incorporate learnings between iterations of model development, model training, and model hosting?
+
+MLSEC 01: How do you control access to your ML workload?
+MLSEC 02 : How are you protecting and monitoring access to sensitive data used in your ML workloads?
+MLSEC 03: How are you protecting trained ML models?
+
+MLREL 01: How do you manage changes to your machine learning models and prediction endpoints?
+MLREL 02: How are changes to ML models coordinated across your workload?
+MLREL 03: How are you scaling endpoints hosting models for predictions? 
+MLREL 04: How do you recover from failure or inadvertent loss of a trained ML model? 
+MLREL 05: How do you recover from failure or inadvertent loss of model hosting resources? 
+
+MLPER 01: How are you choosing the most appropriate instance type for training and hosting your models?
+MLPER 02: How do you scale your ML workload while maintaining optimal performance?
+
+MLCOST 01: How do you optimize data labeling costs?
+MLCOST 02: How do you optimize costs during ML experimentation?
+MLCOST 03: How do you select the most cost optimal resources for ML training?
+MLCOST 04: How do you optimize cost for ML Inference?
+
 ### [The Scientific Method in the Science of Machine Learning](https://arxiv.org/pdf/1904.10922.pdf)
 
 > We conjecture that grounding ML research in statistically sound hypothesis testing with careful control of nuisance parameters may encourage the publication of advances that
