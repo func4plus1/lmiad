@@ -12,7 +12,7 @@
 
 (2017) [Attention is All You Need](https://arxiv.org/pdf/1706.03762.pdf) 
 
-(2012) [Approximate Nearest Neighbor: Towards Reducing the Curse of Dimensionality]
+(2012) [Approximate Nearest Neighbor: Towards Reducing the Curse of Dimensionality](https://www.theoryofcomputing.org/articles/v008a014/v008a014.pdf)
 
 (2011) [Philosophy and the practice of Bayesian statistics](http://www.stat.columbia.edu/~gelman/research/unpublished/philosophy.pdf)
 
