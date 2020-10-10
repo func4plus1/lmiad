@@ -74,7 +74,7 @@ The end-to-end machine learning process includes the following phases:
 
 <br>
 
-Canary Deployment
+**Canary Deployment**
 
 ![Canary Deployment](canarydeployment.png)
 
