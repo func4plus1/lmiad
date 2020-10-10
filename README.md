@@ -1,5 +1,43 @@
 > "If a machine is expected to be infallible, it cannot also be intelligent.”  - Alan Turing
 
+# "What is Artificial Intelligence"
+
+*[Artificial Intelligence: A Modern
+Approach](http://aima.cs.berkeley.edu/index.html)* is the primary textbook through
+which scores of new researchers have first dipped their toes into the cool replicant waters over
+the last three+ decades.
+
+![Rutger Hauer](/images/bladerunner.gif)
+
+The manner in which [Peter Norvig](https://norvig.com/) and [Stuart Russell](http://people.eecs.berkeley.edu/~russell/) have
+chosen to frame Artificial Intelligence over the course of their books editions
+has had great influence on how AI has evolved. Which chapters they included,
+removed, expanded, shrank; which theories they championed or ignored has had
+a great effect on the conversation and ultimately our understanding of what
+Artificial Intelligence is and can be.
+
+When it is asked: What is Artifical Intelligence, it is possible that the
+answer is in the pages of the four editions of this seminal work. As the
+website for the book states: "THe leading textbook in Artifical Intelligence,
+used in over 1400 schools in over 120 countries."
+
+The first edition of *Artifical Intelligence: A Modern Approach* (from here on
+referred to as *AIMA*) defined AI as a field that:
+
+> "attempts to understand intelligent entities. Thus, one reason to study it is to learn more about ourselves...AI strives to build intelligent entities as well as understand them"
+
+The second edition of *AIMA* continues the thread of building intelligence but
+interestingly drops the argument that the field takes interest in "knowing
+thyself":
+
+> "The field of artificial intelligence...attempts not just to understand but also build intelligent entities"
+
+Wheras *AIMA* edition one makes such claims as "All the researcher has to do is look
+in the mirror to see an example of an intelligent system", edition two of
+*AIMA* replaces a human-centered approach with a rationality in which at its core "AI systematizes and automates intellectual
+tasks."
+
+
 # References
 
 (2020) [The Well Archicted Framework - Machine Learning Lens](https://d1.awsstatic.com/whitepapers/architecture/wellarchitected-Machine-Learning-Lens.pdf)
