@@ -15,8 +15,7 @@ chosen to frame Artificial Intelligence over the course of their editions
 has had great influence on how AI has evolved.  Which chapters they included, removed, expanded, shrank; which theories they championed or ignored; has had
 a profound effect on the conversation and ultimately our understanding around what Artificial Intelligence can and should be.
 
-The first edition of *Artifical Intelligence: A Modern Approach* (from here on
-referred to as *AIMA*) defined AI as a field that:
+The first edition of *Artifical Intelligence: A Modern Approach* (commonly referred to as *AIMA*) defined AI as a field that:
 
 > "attempts to understand intelligent entities. Thus, one reason to study it is to learn more about ourselves...AI strives to build intelligent entities as well as understand them"
 
