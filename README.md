@@ -20,7 +20,7 @@ The first edition of *Artifical Intelligence: A Modern Approach* (commonly refer
 > "attempts to understand intelligent entities. Thus, one reason to study it is to learn more about ourselves...AI strives to build intelligent entities as well as understand them"
 
 The second edition of *AIMA* continues the thread of building intelligence but
-interestingly drops the argument that the field takes interest in "knowing
+interestingly drops the argument that the field is also concerned with "knowing
 thyself":
 
 > "The field of artificial intelligence...attempts not just to understand but also build intelligent entities"
