@@ -33,6 +33,7 @@ Questions to ask:
 * MLOPS 05: How are you monitoring and logging model hosting activities?
 * MLOPS 06: How do you know when to retrain ML models with new or updated data?
 * MLOPS 07: How do you incorporate learnings between iterations of model development, model training, and model hosting?
+<br>
 
 * MLSEC 01: How do you control access to your ML workload?
 * MLSEC 02 : How are you protecting and monitoring access to sensitive data used in your ML workloads?
