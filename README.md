@@ -48,6 +48,8 @@ k participants with the same data structure collaborativelylearn a machine learn
 
 a common representation between the two feature space is learned using the limited common sample sets andl ater applied to obtain predictions for samples with only one-side features.
 
+---
+
 ## References
 
 (2020) [The Well Archicted Framework - Machine Learning Lens](https://d1.awsstatic.com/whitepapers/architecture/wellarchitected-Machine-Learning-Lens.pdf)
