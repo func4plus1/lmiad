@@ -56,6 +56,18 @@ Questions to ask:
 * MLCOST 03: How do you select the most cost optimal resources for ML training?
 * MLCOST 04: How do you optimize cost for ML Inference?
 
+The end-to-end machine learning process includes the following phases:
+• Business Goal Identification
+• ML Problem Framing
+• Data Collection and Integration
+• Data Preparation
+• Data Visualization and Analytics
+• Feature Engineering
+• Model Training
+• Model Evaluation
+• Business Evaluation
+• Production Deployment (Model Deployment and Model Inference)
+
 ### [The Scientific Method in the Science of Machine Learning](https://arxiv.org/pdf/1904.10922.pdf)
 
 > We conjecture that grounding ML research in statistically sound hypothesis testing with careful control of nuisance parameters may encourage the publication of advances that
