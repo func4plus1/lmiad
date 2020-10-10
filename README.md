@@ -1,3 +1,53 @@
+# Federated Machine Learning
+
+**Secure Multi-party Computation**
+
+provide security proof in a well-defined simulation framework to guarantee complete zeroknowledge, that is, each party knows nothing except its input and output.
+
+**Differential Privacy**
+
+Adding noise to the data, or using generalization methods to obscurecertain sensitive attributes until the third party cannot distinguish the individual, thereby makingthe data impossible to be restore to protect user privacy
+
+**Homomorphic Encryption**
+
+Homomorphic Encryption adopted to protect user data privacy through parameter exchange under the encryption mechanism during machine learning. Unlike differential privacy protection, the data and the model itself are not transmitted, nor can they be guessed by the other party’s data.
+
+**Horizontal federated learning** or sample-based federated learning, 
+
+introduced in the scenarios that data sets share the same feature space but different samples
+
+A horizontal federated learning system typically assumes honest participantsand security against a honest-but-curious server
+
+example two banks in different regions 
+
+k participants with the same data structure collaborativelylearn a machine learning model with the help of a parameter or cloud server
+
+* Step 1: participants locally compute training gradients, mask a selection of gradients withencryption  differential privacy  or secret sharing techniques, and send maskedresults to server
+* Step 2: Server performs secure aggregation without learning information about any participant;
+* Step 3: Server send back the aggregated results to participants
+* Step 4: Participants update their respective model with the decrypted gradients
+
+**Vertical federated learning** or feature-based federated learning
+
+ Is applicable to the cases that two data sets share the same sample ID space but differ in feature space. 
+ 
+ example a bank and an ecommerce company in the same city have the same sample probably
+ 
+ At the end of learning, each party only holds the model parameters associated to its own features, therefore at inference time, the two parties also need to collaborate to generate output.
+ 
+ Part 1.Encrypted entity alignment. 
+ 
+ Part 2. Encrypted model training: 
+ 
+ * Step 1: collaborator C creates encryption pairs, send public key to A and B
+ * Step 2: A and B encrypt and exchange the intermediate results for gradient and loss calculations
+ * Step 3: A and B computes encrypted gradients and adds additional mask, respectively, and B also computes encrypted loss; A and B send encrypted values to C
+ * Step 4: C decrypts and send the decrypted gradients and loss back to A and B; A and B unmask the gradients, update the model parameters accordingly.
+ 
+**Federated Transfer Learning** applies to the scenarios that the two data sets differ not only in samples but also in feature space
+
+a common representation between the two feature space is learned using the limited common sample sets andl ater applied to obtain predictions for samples with only one-side features.
+
 ## References
 
 (2020) [The Well Archicted Framework - Machine Learning Lens](https://d1.awsstatic.com/whitepapers/architecture/wellarchitected-Machine-Learning-Lens.pdf)
@@ -6,11 +56,30 @@
 
 (2019) [The Scientific Method in the Science of Machine Learning](https://arxiv.org/pdf/1904.10922.pdf)
 
+(2019) [Federated Machine Learning: Concepts and Applications](https://arxiv.org/pdf/1902.04885.pdf)
+
+(2019) [Federated Machine Learning Concept and Application)](https://arxiv.org/pdf/1902.04885.pdf)
+
+(2019) [Patient Clustering Improves Efficiency of Federated Machine Learning to predict mortality and hospital stay time using distributed Electronic Medical
+Records](https://arxiv.org/ftp/arxiv/papers/1903/1903.09296.pdf)
+
+(2019) [Towards Federated Learning At Scale: System Design](https://arxiv.org/pdf/1902.01046.pdf)
+
+(2019) [Federated learning for mobile keyboard prediction](https://arxiv.org/pdf/1811.03604.pdf)
+
 (2019) [Managing Machine Learning Projects - Balance Potential With the Need for Guardrails](https://d1.awsstatic.com/whitepapers/aws-managing-ml-projects.pdf)
 
 (2018) [Optimizing Revenue Over Data Driven Assortments](https://arxiv.org/pdf/1708.05510.pdf)
 
+(2018) [Leaf: A Federated Learning Benchmark](https://arxiv.org/pdf/1812.01097.pdf)
+
+(2018) [Applied Federated Learning: Improving Google Keyboard Query Suggestions](https://arxiv.org/pdf/1812.02903.pdf)
+
 (2017) [Attention is All You Need](https://arxiv.org/pdf/1706.03762.pdf) 
+
+(2016) [Federated Optimization: Distributed Machine Learning for On-Device Intelligence](https://arxiv.org/pdf/1610.02527.pdf)
+
+(2016) [Communication-Efficient Learning of Deep Networks from Decentralized Data](https://arxiv.org/pdf/1602.05629.pdf)
 
 (2012) [Approximate Nearest Neighbor: Towards Reducing the Curse of Dimensionality](https://www.theoryofcomputing.org/articles/v008a014/v008a014.pdf)
 
