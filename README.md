@@ -12,9 +12,7 @@ used in over 1400 schools in over 120 countries."
 
 The manner in which [Peter Norvig](https://norvig.com/) and [Stuart Russell](http://people.eecs.berkeley.edu/~russell/) have
 chosen to frame Artificial Intelligence over the course of their editions
-has had great influence on how AI has evolved. 
-
-Which chapters they included, removed, expanded, shrank; which theories they championed or ignored; has had
+has had great influence on how AI has evolved.  Which chapters they included, removed, expanded, shrank; which theories they championed or ignored; has had
 a profound effect on the conversation and ultimately our understanding around what Artificial Intelligence can and should be.
 
 The first edition of *Artifical Intelligence: A Modern Approach* (from here on
