@@ -4,11 +4,19 @@
 
 (2020) [The Well Archicted Framework - Machine Learning Lens](https://d1.awsstatic.com/whitepapers/architecture/wellarchitected-Machine-Learning-Lens.pdf)
 
+(2020) [How To Fine-Tune BERT for Text Classification](https://arxiv.org/pdf/1905.05583.pdf)
+
 (2020) [Language Models Are Few Shot Learners](https://arxiv.org/pdf/2005.14165.pdf) | [video explanation](https://www.youtube.com/watchv=SY5PvZrJhLE&feature=youtu.be&ab_channel=YannicKilcher)
 
 (2019) [The Scientific Method in the Science of Machine Learning](https://arxiv.org/pdf/1904.10922.pdf)
 
+(2019) [FinBERT: Financial Sentiment Analysis With Pre-Trained Language Models](https://arxiv.org/pdf/1908.10063.pdf,https://github.com/ProsusAI/finBERT)
+
 (2019) [Federated Machine Learning: Concepts and Applications](https://arxiv.org/pdf/1902.04885.pdf)
+
+(2019) [Publically Available clinical BERT embeddings](https://github.com/EmilyAlsentzer/clinicalBERT)
+
+(2019) [DocBert: BERT for Document Classification](https://arxiv.org/pdf/1904.08398v3.pdf,https://github.com/castorini/hedwig)
 
 (2019) [Federated Machine Learning Concept and Application)](https://arxiv.org/pdf/1902.04885.pdf)
 
@@ -21,6 +29,10 @@ Records](https://arxiv.org/ftp/arxiv/papers/1903/1903.09296.pdf)
 
 (2019) [Managing Machine Learning Projects - Balance Potential With the Need for Guardrails](https://d1.awsstatic.com/whitepapers/aws-managing-ml-projects.pdf)
 
+(2019) [Hiearchical Transformers for Long Document Classification](https://arxiv.org/pdf/1910.10781.pdf)
+
+(2019) [BioBert: A Pretrained Biomedical Language Representation Model For Biomedical Text Mining](https://arxiv.org/pdf/1901.08746v4.pdf,https://github.com/dmis-lab/biobert)
+
 (2018) [Bert: Pre-training of Deep Bidirectional Transformers for Language Understanding](https://arxiv.org/pdf/1810.04805.pdf)
 
 (2018) [Optimizing Revenue Over Data Driven Assortments](https://arxiv.org/pdf/1708.05510.pdf)
@@ -31,6 +43,8 @@ Records](https://arxiv.org/ftp/arxiv/papers/1903/1903.09296.pdf)
 
 (2017) [Attention is All You Need](https://arxiv.org/pdf/1706.03762.pdf) 
 
+(2017) [Enriching Word Vectors With Subword Informtation](https://arxiv.org/pdf/1607.04606.pdf)
+
 (2016) [Federated Optimization: Distributed Machine Learning for On-Device Intelligence](https://arxiv.org/pdf/1610.02527.pdf)
 
 (2016) [Communication-Efficient Learning of Deep Networks from Decentralized Data](https://arxiv.org/pdf/1602.05629.pdf)
@@ -39,9 +53,15 @@ Records](https://arxiv.org/ftp/arxiv/papers/1903/1903.09296.pdf)
 
 (2013) [Sequence to Sequence Learning With Neural Networks](https://papers.nips.cc/paper/5346-sequence-to-sequence-learning-with-neural-networks.pdf)
 
+(2013) [Linguistic Regularities in Continuous Space Word Representation](https://www.microsoft.com/en-us/research/wp-content/uploads/2016/02/rvecs.pdf)
+
+(2013) [Efficient Estimation of Word Representations in Vector Space](https://arxiv.org/pdf/1301.3781.pdf)
+
 (2012) [Approximate Nearest Neighbor: Towards Reducing the Curse of Dimensionality](https://www.theoryofcomputing.org/articles/v008a014/v008a014.pdf)
 
 (2011) [Philosophy and the practice of Bayesian statistics](http://www.stat.columbia.edu/~gelman/research/unpublished/philosophy.pdf)
+
+(2003) [A Neural Probabilistic Language Model](http://www.jmlr.org/papers/volume3/bengio03a/bengio03a.pdf)
 
 (2001) [LIBSVM: A Library for Support Vector Machines](https://www.csie.ntu.edu.tw/~cjlin/papers/libsvm.pdf)
 
@@ -93,6 +113,8 @@ Records](https://arxiv.org/ftp/arxiv/papers/1903/1903.09296.pdf)
 
 (1956) [Dynamic Programming](https://www.rand.org/content/dam/rand/pubs/papers/2008/P550.pdf)
 
+(1956) [Distributional Structure](https://www.tandfonline.com/doi/pdf/10.1080/00437956.1954.11659520)
+
 (1954) [Neural Nets and the Brain-Model Problem](https://web.media.mit.edu/~minsky/minskybiog.html)
 
 (1951) [Theory of Reproducing Kernels](https://people.eecs.berkeley.edu/~wainwrig/stat241b/aronszajn.pdf)
@@ -106,6 +128,7 @@ Records](https://arxiv.org/ftp/arxiv/papers/1903/1903.09296.pdf)
 (1933) [Foundations of the Theory of Probability](https://www.york.ac.uk/depts/maths/histstat/kolmogorov_foundations.pdf)
 
 (1913) [An Example of Statistical Investigation in the text of 'Eugene Onegin' illustrating coupling of 'tests' in chains](http://www.alpha60.de/research/markov/DavidLink_AnExampleOfStatistical_MarkovTrans_2007.pdf)
+
 
 # Notes 
 
@@ -307,9 +330,17 @@ and devise a test statistic which is sensitive to this sort of mis-specification
 ---
 
 
-## Important Code
+## Important/Interesting Code
 
 Annoy [Repository](https://github.com/spotify/annoy)
+
+Doc Product -- Medical Q&A with Deep Language Models [Repository](https://github.com/re-search/DocProduct)
+
+## Interesting Data
+
+(2019) Preprocessed PubMed Text: [Paper](https://arxiv.org/pdf/1906.05474.pdf) [Code](https://github.com/ncbi-nlp/BlueBERT/blob/master/README.md#pubmed)
+
+---
 
 ### Concepts
 
