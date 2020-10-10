@@ -21,6 +21,8 @@ Records](https://arxiv.org/ftp/arxiv/papers/1903/1903.09296.pdf)
 
 (2019) [Managing Machine Learning Projects - Balance Potential With the Need for Guardrails](https://d1.awsstatic.com/whitepapers/aws-managing-ml-projects.pdf)
 
+(2018) [Bert: Pre-training of Deep Bidirectional Transformers for Language Understanding](https://arxiv.org/pdf/1810.04805.pdf)
+
 (2018) [Optimizing Revenue Over Data Driven Assortments](https://arxiv.org/pdf/1708.05510.pdf)
 
 (2018) [Leaf: A Federated Learning Benchmark](https://arxiv.org/pdf/1812.01097.pdf)
@@ -33,27 +35,77 @@ Records](https://arxiv.org/ftp/arxiv/papers/1903/1903.09296.pdf)
 
 (2016) [Communication-Efficient Learning of Deep Networks from Decentralized Data](https://arxiv.org/pdf/1602.05629.pdf)
 
+(2014) [Neural Machine Translation By Jointly Learning to Align and Translate](https://arxiv.org/pdf/1409.0473)
+
+(2013) [Sequence to Sequence Learning With Neural Networks](https://papers.nips.cc/paper/5346-sequence-to-sequence-learning-with-neural-networks.pdf)
+
 (2012) [Approximate Nearest Neighbor: Towards Reducing the Curse of Dimensionality](https://www.theoryofcomputing.org/articles/v008a014/v008a014.pdf)
 
 (2011) [Philosophy and the practice of Bayesian statistics](http://www.stat.columbia.edu/~gelman/research/unpublished/philosophy.pdf)
 
+(2001) [LIBSVM: A Library for Support Vector Machines](https://www.csie.ntu.edu.tw/~cjlin/papers/libsvm.pdf)
+
+(1999) [An Overview of Statistical Learning Theory](https://www.math.arizona.edu/~hzhang/math574m/Read/vapnik.pdf)
+
 (1998) [A Beginners Guide to the Mathematics of Neural Networks](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.161.3556&rep=rep1&type=pdf&fbclid=IwAR1jmZJ3FBqcNLKbkyKXV3nZ3LaT12M6RoE4gW70TUrLrp-7WJe5LvjQkn4)
 
-(1988) Probabilistic Reasoning in Intelligent Systems: Networks of Plausible Inference - Judea Pearl
+(1998) [Gradient-Based Learning Applied to Document Recognition](http://yann.lecun.com/exdb/publis/pdf/lecun-01a.pdf)
 
-(1984) Heuristics: Intelligent Search Strategies for Computer Problem Solving - Judea Pearl
+(1996) [Natural Language Understanding](https://mil.ufl.edu/6841/admin/JAllen_1.pdf)
 
-(1969) Perceptrons: An Introdcution to Computational Geometry - Marvin Minsky
+(1995) [Support Vector Networks](https://link.springer.com/content/pdf/10.1023%2FA%3A1022627411411.pdf)
 
-(1950) The Human Use Of Human Beings - Norbert Wiener
+(1994) [Artifical Intelligence: A Modern Approach - First Edition](https://people.eecs.berkeley.edu/~russell/aima1e.html)
 
-(1950) Computing Machinery and Intelligence - Alan Turing 
+(1992) [A Training Algorithm for Optimal Margin Classifier](https://www.svms.org/training/BOGV92.pdf)
 
-(1948) Cybernetics - Norbert Wiener
+(1989) [Handwritten Digit Recognition with a Back-Propagration Network](http://papers.nips.cc/paper/293-handwritten-digit-recognition-with-a-back-propagation-network.pdf)
 
-(1944) Theory of Games and Economic Behavior - Von Neuman & Morgenstern
+(1986) [Learning and Relearning in Boltzmann Machines](http://www.cs.utoronto.ca/~hinton/absps/pdp7.pdf)
 
-(1943) A Logical calculus of the ideas immanent in nervous activity - Mculloh & Pitts
+(1983) [Optimal Perceptual Inference](https://papers.cnl.salk.edu/PDFs/Optimal%20Perceptual%20Inference%201983-646.pdf)
+
+(1982) [Neurons With Graded Response have collective computational properties like those of two state neurons](http://cogsci.ucsd.edu/~sereno/107B/readings/02.02-AttractorCont.pdf)
+
+(1981) [Parallel Models of Associative Memory](http://www.cs.utoronto.ca/~hinton/absps/semantic81.pdf)
+
+(1980) [Principles of Artifical Intelligence](https://ai.stanford.edu/~nilsson/QAI/qai.pdf)
+
+(1978) [An Introduction to Artificial Intelligence: Can Computers Think?](https://archive.org/details/AnIntroductionToArtificialIntelligence)
+
+(1971) [The Complexity of Thereom Proving Procedures](https://www.cs.toronto.edu/~sacook/homepage/1971.pdf)
+
+(1970) [Problem-Solving Methods In Artifical Intelligence](https://cse.buffalo.edu/~rapaport/572/S02/nilsson.8puzzle.pdf)
+
+(1969) [Applied Optimal Control](https://archive.org/details/AppliedOptimalControl/page/n5/mode/2up)
+
+(1967) [Computation:Finite and Infinite Machines](http://www.cba.mit.edu/events/03.11.ASE/docs/Minsky.pdf)
+
+(1965) [Three Approaches to the Quantitative Definition of Information](http://alexander.shen.free.fr/library/Kolmogorov65_Three-Approaches-to-Information.pdf)
+
+(1963) [Recognition of Patterns With Help of Generalized Portraits](http://web.cs.iastate.edu/~cs573x/vapnik-portraits1963.pdf)
+
+(1962) [Applied Dynamic Programming](https://archive.org/details/applieddynamicpr00bell_0)
+
+(1958) [A Learning Machine: Part I,Friedberg](https://exhibits.stanford.edu/feigenbaum/catalog/my986yd0500)
+
+(1957) [The Perceptron: A perceiving and Recognizing Automation](https://blogs.umass.edu/brain-wars/files/2016/03/rosenblatt-1957.pdf)
+
+(1956) [Dynamic Programming](https://www.rand.org/content/dam/rand/pubs/papers/2008/P550.pdf)
+
+(1954) [Neural Nets and the Brain-Model Problem](https://web.media.mit.edu/~minsky/minskybiog.html)
+
+(1951) [Theory of Reproducing Kernels](https://people.eecs.berkeley.edu/~wainwrig/stat241b/aronszajn.pdf)
+
+(1949) [The Mathematical Theory of Communication](http://people.math.harvard.edu/~ctm/home/text/others/shannon/entropy/entropy.pdf)
+
+(1943) [A Logical Calculus of the Ideas Immanent in Nervous Activity](https://web.csulb.edu/~cwallis/382/readings/482/mccolloch.logical.calculus.ideas.1943.pdf)
+
+(1942) [Some Observations on the Simple Neuron Circuit](https://doi.org/10.1007/BF02477942]
+
+(1933) [Foundations of the Theory of Probability](https://www.york.ac.uk/depts/maths/histstat/kolmogorov_foundations.pdf)
+
+(1913) [An Example of Statistical Investigation in the text of 'Eugene Onegin' illustrating coupling of 'tests' in chains](http://www.alpha60.de/research/markov/DavidLink_AnExampleOfStatistical_MarkovTrans_2007.pdf)
 
 # Notes 
 
