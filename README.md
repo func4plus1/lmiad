@@ -48,6 +48,8 @@ in the mirror to see an example of an intelligent system", edition two of
 
 (2019) [Federated Machine Learning: Concepts and Applications](https://arxiv.org/pdf/1902.04885.pdf)
 
+(2019) [Machine Learning of Designed Translation Control Allows Predictive Pathway Optimization in Escherichia Coli](https://pubs.acs.org/doi/pdf/10.1021/acssynbio.8b00398)
+
 (2019) [Publically Available clinical BERT embeddings](https://github.com/EmilyAlsentzer/clinicalBERT)
 
 (2019) [DocBert: BERT for Document Classification](https://arxiv.org/pdf/1904.08398v3.pdf,https://github.com/castorini/hedwig)
