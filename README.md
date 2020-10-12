@@ -69,6 +69,8 @@ Records](https://arxiv.org/ftp/arxiv/papers/1903/1903.09296.pdf)
 
 (2019) [BioBert: A Pretrained Biomedical Language Representation Model For Biomedical Text Mining](https://arxiv.org/pdf/1901.08746v4.pdf,https://github.com/dmis-lab/biobert)
 
+(2019) [Lessons from Two Design−Build−Test−Learn Cycles of Dodecanol Production in Escherichia coli Aided by Machine Learning](https://pubs.acs.org/doi/pdf/10.1021/acssynbio.9b00020)
+
 (2018) [Bert: Pre-training of Deep Bidirectional Transformers for Language Understanding](https://arxiv.org/pdf/1810.04805.pdf)
 
 (2018) [Optimizing Revenue Over Data Driven Assortments](https://arxiv.org/pdf/1708.05510.pdf)
@@ -104,6 +106,8 @@ Records](https://arxiv.org/ftp/arxiv/papers/1903/1903.09296.pdf)
 (2001) [LIBSVM: A Library for Support Vector Machines](https://www.csie.ntu.edu.tw/~cjlin/papers/libsvm.pdf)
 
 (1999) [An Overview of Statistical Learning Theory](https://www.math.arizona.edu/~hzhang/math574m/Read/vapnik.pdf)
+
+(1999) [Bayesian Model Averaging: A Tutorial](https://projecteuclid.org/download/pdf_1/euclid.ss/1009212519)
 
 (1998) [A Beginners Guide to the Mathematics of Neural Networks](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.161.3556&rep=rep1&type=pdf&fbclid=IwAR1jmZJ3FBqcNLKbkyKXV3nZ3LaT12M6RoE4gW70TUrLrp-7WJe5LvjQkn4)
 
