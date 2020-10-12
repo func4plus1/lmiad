@@ -40,6 +40,8 @@ in the mirror to see an example of an intelligent system", edition two of
 
 (2020) [Language Models Are Few Shot Learners](https://arxiv.org/pdf/2005.14165.pdf) | [video explanation](https://www.youtube.com/watchv=SY5PvZrJhLE&feature=youtu.be&ab_channel=YannicKilcher)
 
+(2020) [Descending Through A Crowded Valley - Benchmarking Deep Learning Optimizers](https://arxiv.org/pdf/2007.01547.pdf)
+
 (2020) [A Mache Learning Automated Recommendation Tool for Synthetic Biology](https://www.nature.com/articles/s41467-020-18008-4)
 
 (2020) [Sequence to function deep learning frameworks for engineered riboregulators](https://www.nature.com/articles/s41467-020-18676-2)
