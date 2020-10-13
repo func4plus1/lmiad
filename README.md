@@ -286,6 +286,16 @@ The end-to-end machine learning process includes the following phases:
 
 ---
 
+## AWS Well-Architected Framework
+
+> The process for reviewing an architecture is a constructive conversation about architectural decisions, and is not an audit mechanism.
+
+> The AWS Well-Architected Framework documents a set of foundational questions that allow you to understand if a specific architecture aligns well with cloud best practices.
+
+> The framework provides a consistent approach to evaluating systems against the qualities you expect from modern cloud-based systems, and the remediation that would be required to achieve those qualities. 
+
+> Teams often use the [TOGAF](https://pubs.opengroup.org/architecture/togaf9-doc/arch/?ref=wellarchitected-wp) or [Zachman](https://www.zachman.com/about-the-zachman-framework?ref=wellarchitected-wp) framework for Enterprise Architecture. 
+
 ## (2019) [The Scientific Method in the Science of Machine Learning](https://arxiv.org/pdf/1904.10922.pdf)
 
 > We conjecture that grounding ML research in statistically sound hypothesis testing with careful control of nuisance parameters may encourage the publication of advances that
