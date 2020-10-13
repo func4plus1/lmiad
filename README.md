@@ -296,6 +296,9 @@ The end-to-end machine learning process includes the following phases:
 
 > Teams often use the [TOGAF](https://pubs.opengroup.org/architecture/togaf9-doc/arch/?ref=wellarchitected-wp) or [Zachman](https://www.zachman.com/about-the-zachman-framework?ref=wellarchitected-wp) framework for Enterprise Architecture. 
 
+> At AWS, we prefer to distribute capabilities into teams rather than having a centralized team with that capability. There are risks when you choose to distribute decision making authority, for example, ensure that teams are meeting internal standards. We mitigate these risks in two ways. First, we have practices that focus on enabling each team to have that capability, and we put in place experts who ensure that teams raise the bar on the standards they need to meet. Second, we implement mechanisms that carry out automated checks to ensure standards are being met. 
+
+
 ## (2019) [The Scientific Method in the Science of Machine Learning](https://arxiv.org/pdf/1904.10922.pdf)
 
 > We conjecture that grounding ML research in statistically sound hypothesis testing with careful control of nuisance parameters may encourage the publication of advances that
