@@ -302,6 +302,14 @@ The end-to-end machine learning process includes the following phases:
 
 > By following the approach of a principal engineering community with distributed ownership of architecture, we believe that a Well-Architected enterprise architecture can emerge that is driven by customer need... Using this approach, you can identify themes across teams that your organization could address by mechanisms, training, or lunchtime talks where your principal engineers can share their thinking on specific areas with multiple teams.
 
+General Design Principles:
+* Stop guessing your capacity needs
+* Test systems at production scale
+* Automate to make architectural experimentation easier
+* Allow for evolutionary architectures
+* Drive architectures using data
+* Improve through game days
+
 ## (2019) [The Scientific Method in the Science of Machine Learning](https://arxiv.org/pdf/1904.10922.pdf)
 
 > We conjecture that grounding ML research in statistically sound hypothesis testing with careful control of nuisance parameters may encourage the publication of advances that
