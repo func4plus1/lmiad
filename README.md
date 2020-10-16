@@ -95,6 +95,8 @@ Records](https://arxiv.org/ftp/arxiv/papers/1903/1903.09296.pdf)
 
 (2016) [Communication-Efficient Learning of Deep Networks from Decentralized Data](https://arxiv.org/pdf/1602.05629.pdf)
 
+(2016) [NEURAL MACHINE TRANSLATION BY JOINTLY LEARNING TO ALIGN AND TRANSLATE](https://arxiv.org/pdf/1409.0473)
+
 (2015) [Predicting the sequence specificities of DNA and RNA-binding proteins by deep learning](https://cpb-us-w2.wpmucdn.com/u.osu.edu/dist/0/72768/files/2019/01/2016-03-18-Predicting-the-sequence-specificities-of-DNA-and-RNA-binding-proteins-by-deep-learning-1xugui1.pdf)
 
 (2014) [Neural Machine Translation By Jointly Learning to Align and Translate](https://arxiv.org/pdf/1409.0473)
@@ -402,3 +404,7 @@ Doc Product -- Medical Q&A with Deep Language Models [Repository](https://github
 Cross Validation 
 * [Video Explanation](https://www.youtube.com/embed/TIgfjmp-4BA)
 * K-Fold (Leave One Out) [Video Explained](https://www.youtube.com/embed/6dbrR-WymjI)
+
+
+Transformers
+[The Illustrated Transformer](http://jalammar.github.io/illustrated-transformer/)
