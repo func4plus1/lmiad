@@ -56,7 +56,7 @@ in the mirror to see an example of an intelligent system", edition two of
 
 (2019) [FinBERT: Financial Sentiment Analysis With Pre-Trained Language Models](https://arxiv.org/pdf/1908.10063.pdf,https://github.com/ProsusAI/finBERT)
 
-(2019) [MelNet: A Generative Model for Audio in the Frequency Domain](https://arxiv.org/pdf/1906.01083.pdf)
+(2019) [MelNet: A Generative Model for Audio in the Frequency Domain](https://arxiv.org/pdf/1906.01083.pdf) | [Code](https://github.com/Deepest-Project/MelNet)
 
 (2019) [Federated Machine Learning: Concepts and Applications](https://arxiv.org/pdf/1902.04885.pdf)
 
