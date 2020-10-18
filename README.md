@@ -42,6 +42,8 @@ in the mirror to see an example of an intelligent system", edition two of
 
 (2020) [Descending Through A Crowded Valley - Benchmarking Deep Learning Optimizers](https://arxiv.org/pdf/2007.01547.pdf)
 
+(2020) [XiaoiceSing: A High-Quality and Integrated Singing Voice Synthesis System](https://arxiv.org/pdf/2006.06261.pdf)
+
 (2020) [Big Transfer: General Visual Representation Learning](https://arxiv.org/pdf/1912.11370.pdf)
 
 (2020) [A Mache Learning Automated Recommendation Tool for Synthetic Biology](https://www.nature.com/articles/s41467-020-18008-4)
