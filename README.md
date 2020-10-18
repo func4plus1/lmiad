@@ -95,6 +95,8 @@ Records](https://arxiv.org/ftp/arxiv/papers/1903/1903.09296.pdf)
 
 (2018) [Applied Federated Learning: Improving Google Keyboard Query Suggestions](https://arxiv.org/pdf/1812.02903.pdf)
 
+(2018) [Natural TTS Synthesis by Conditioning WaveNet on Mel Spectrogram Predictions](https://arxiv.org/pdf/1712.05884.pdf) -Tacotron 2
+
 (2017) [Attention is All You Need](https://arxiv.org/pdf/1706.03762.pdf) 
 
 (2017) [Enriching Word Vectors With Subword Informtation](https://arxiv.org/pdf/1607.04606.pdf)
