@@ -4,16 +4,16 @@
 
 *[Artificial Intelligence: A Modern
 Approach](http://aima.cs.berkeley.edu/index.html)* is the primary textbook through
-which scores of new researchers have first dipped their toes into "AI" waters. 
-When it is asked: "What is Artifical Intelligence?", it is possible that the
-answer is in the pages of the four editions of this seminal work. As the
+which many researchers have first entered the "AI" waters. 
+When it is asked: "What is Artifical Intelligence?", it is possible we all subconsciously give the
+answer embeded within the opening pages of the four editions of this ubuiquitous work. As the
 website for the book states: "The leading textbook in Artifical Intelligence,
 used in over 1400 schools in over 120 countries."
 
 The manner in which [Peter Norvig](https://norvig.com/) and [Stuart Russell](http://people.eecs.berkeley.edu/~russell/) have
 chosen to frame Artificial Intelligence over the course of their editions
-has had great influence on how AI has evolved.  Which chapters they included, removed, expanded, shrank; which theories they championed or ignored; has had
-a profound effect on the conversation and ultimately our understanding around what Artificial Intelligence can and should be.
+has had great influence on how AI has evolved.  The chapters they included, removed, expanded, shrank; the theories they championed or ignored; has had
+a profound effect on the conversation and ultimately our understanding of what Artificial Intelligence can and should be.
 
 The first edition of *Artifical Intelligence: A Modern Approach* (commonly referred to as *AIMA*) defined AI as a field that:
 
@@ -25,9 +25,9 @@ thyself":
 
 > "The field of artificial intelligence...attempts not just to understand but also build intelligent entities"
 
-Wheras *AIMA* edition one makes such claims as "All the researcher has to do is look
+Wheras *AIMA*01 makes such claims as "All the researcher has to do is look
 in the mirror to see an example of an intelligent system", edition two of
-*AIMA* replaces a human-centered approach with a rationality in which at its core 
+*AIMA*02 replaces a human-centered approach with a rationality in which at its core 
 
 > "AI systematizes and automates intellectual tasks."
 
