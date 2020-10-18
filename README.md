@@ -412,3 +412,4 @@ Transformers
 
 Support Vector Machines
 * [LibSVM](https://www.csie.ntu.edu.tw/~cjlin/libsvm/) - Library for SVM
+* [A Practical Guide to SVM](https://www.csie.ntu.edu.tw/~cjlin/papers/guide/guide.pdf)
