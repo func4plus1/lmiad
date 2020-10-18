@@ -131,7 +131,7 @@ Records](https://arxiv.org/ftp/arxiv/papers/1903/1903.09296.pdf)
 
 (1994) [Artifical Intelligence: A Modern Approach - First Edition](https://people.eecs.berkeley.edu/~russell/aima1e.html)
 
-(1992) [A Training Algorithm for Optimal Margin Classifier](https://www.svms.org/training/BOGV92.pdf)
+(1992) [A Training Algorithm for Optimal Margin Classifier](https://www.svms.org/training/BOGV92.pdf) (SVM)
 
 (1989) [Handwritten Digit Recognition with a Back-Propagration Network](http://papers.nips.cc/paper/293-handwritten-digit-recognition-with-a-back-propagation-network.pdf)
 
@@ -409,3 +409,6 @@ Cross Validation
 Transformers
 
 [The Illustrated Transformer](http://jalammar.github.io/illustrated-transformer/)
+
+Support Vector Machines
+* [LibSVM](https://www.csie.ntu.edu.tw/~cjlin/libsvm/) - Library for SVM
