@@ -25,9 +25,9 @@ thyself":
 
 > "The field of artificial intelligence...attempts not just to understand but also build intelligent entities"
 
-Wheras *AIMA*01 makes such claims as "All the researcher has to do is look
-in the mirror to see an example of an intelligent system", edition two of
-*AIMA*02 replaces a human-centered approach with a rationality in which at its core 
+Wheras *AIMA* 01 makes such claims as "All the researcher has to do is look
+in the mirror to see an example of an intelligent system", 
+*AIMA* 02 replaces a human-centered approach with a rationality in which at its core 
 
 > "AI systematizes and automates intellectual tasks."
 
