@@ -413,6 +413,9 @@ Doc Product -- Medical Q&A with Deep Language Models [Repository](https://github
 
 ### Concepts
 
+AutoRegression
+* [Example in Python](https://machinelearningmastery.com/autoregression-models-time-series-forecasting-python/)
+
 Cross Validation 
 * [Video Explanation](https://www.youtube.com/embed/TIgfjmp-4BA)
 * K-Fold (Leave One Out) [Video Explained](https://www.youtube.com/embed/6dbrR-WymjI)
