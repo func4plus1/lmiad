@@ -87,6 +87,8 @@ Records](https://arxiv.org/ftp/arxiv/papers/1903/1903.09296.pdf)
 
 (2018) [Optimizing Revenue Over Data Driven Assortments](https://arxiv.org/pdf/1708.05510.pdf)
 
+(2018) [Deep Learning for Singing Processing:Achievements, Challenges and Impact on Singers and Listeners](https://arxiv.org/pdf/1807.03046.pdf)
+
 (2018) [Leaf: A Federated Learning Benchmark](https://arxiv.org/pdf/1812.01097.pdf)
 
 (2018) [Applied Federated Learning: Improving Google Keyboard Query Suggestions](https://arxiv.org/pdf/1812.02903.pdf)
