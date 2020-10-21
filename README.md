@@ -38,6 +38,8 @@ in the mirror to see an example of an intelligent system",
 
 (2020) [How To Fine-Tune BERT for Text Classification](https://arxiv.org/pdf/1905.05583.pdf)
 
+(2020) [Demystifying Parallel and Distributed Deep Learning: An In-Depth Concurrency Analysis](https://arxiv.org/pdf/1802.09941.pdf)
+
 (2020) [Language Models Are Few Shot Learners](https://arxiv.org/pdf/2005.14165.pdf) | [video explanation](https://www.youtube.com/watchv=SY5PvZrJhLE&feature=youtu.be&ab_channel=YannicKilcher)
 
 (2020) [Descending Through A Crowded Valley - Benchmarking Deep Learning Optimizers](https://arxiv.org/pdf/2007.01547.pdf)
