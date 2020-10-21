@@ -191,7 +191,7 @@ Records](https://arxiv.org/ftp/arxiv/papers/1903/1903.09296.pdf)
 
 (1949) [The Mathematical Theory of Communication](http://people.math.harvard.edu/~ctm/home/text/others/shannon/entropy/entropy.pdf)
 
-(1947) [https://projecteuclid.org/download/pdf_1/euclid.bams/1183511222](https://projecteuclid.org/download/pdf_1/euclid.bams/1183511222) | -first scientific computing paper 
+(1947) [Numerical Inverting of Matrices of High Order](https://projecteuclid.org/download/pdf_1/euclid.bams/1183511222) | -first scientific computing paper 
 
 (1943) [A Logical Calculus of the Ideas Immanent in Nervous Activity](https://web.csulb.edu/~cwallis/382/readings/482/mccolloch.logical.calculus.ideas.1943.pdf)
 
