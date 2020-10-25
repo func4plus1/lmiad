@@ -119,6 +119,8 @@ Records](https://arxiv.org/ftp/arxiv/papers/1903/1903.09296.pdf)
 
 (2014) [Generative Adversarial Nets](https://papers.nips.cc/paper/5423-generative-adversarial-nets.pdf)
 
+(2014) [In Search of an Understandable Consensus Algorithm](https://raft.github.io/raft.pdf) | Raft Consensus Paper
+
 (2013) [Sequence to Sequence Learning With Neural Networks](https://papers.nips.cc/paper/5346-sequence-to-sequence-learning-with-neural-networks.pdf)
 
 (2013) [Linguistic Regularities in Continuous Space Word Representation](https://www.microsoft.com/en-us/research/wp-content/uploads/2016/02/rvecs.pdf)
