@@ -413,6 +413,8 @@ Annoy [Repository](https://github.com/spotify/annoy)
 
 Doc Product -- Medical Q&A with Deep Language Models [Repository](https://github.com/re-search/DocProduct)
 
+[Auto-Tikv](https://github.com/tikv/auto-tikv) | - Using machine learning to tune database configurations automatically
+
 ---
 
 ## Interesting Data
