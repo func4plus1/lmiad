@@ -413,13 +413,13 @@ and devise a test statistic which is sensitive to this sort of mis-specification
 
 ## Interesting Code
 
-Annoy [Repository](https://github.com/spotify/annoy)
+[Annoy](https://github.com/spotify/annoy) - The best Nearest Neighbor for production from Spotify
 
-[Auto-Tikv](https://github.com/tikv/auto-tikv) | - Using machine learning to tune database configurations automatically
+[Auto-Tikv](https://github.com/tikv/auto-tikv) - Using machine learning to tune database configurations automatically
 
 [Cvxopt](http://cvxopt.org/) - Python for Convex Optimization
 
-Doc Product -- Medical Q&A with Deep Language Models [Repository](https://github.com/re-search/DocProduct)
+[Doc Product](https://github.com/re-search/DocProduct) - Medical Q&A with Deep Language Models 
 
 ---
 
