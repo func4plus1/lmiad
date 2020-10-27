@@ -415,11 +415,11 @@ and devise a test statistic which is sensitive to this sort of mis-specification
 
 Annoy [Repository](https://github.com/spotify/annoy)
 
+[Auto-Tikv](https://github.com/tikv/auto-tikv) | - Using machine learning to tune database configurations automatically
+
 [Cvxopt](http://cvxopt.org/) - Python for Convex Optimization
 
 Doc Product -- Medical Q&A with Deep Language Models [Repository](https://github.com/re-search/DocProduct)
-
-[Auto-Tikv](https://github.com/tikv/auto-tikv) | - Using machine learning to tune database configurations automatically
 
 ---
 
