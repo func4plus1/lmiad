@@ -410,6 +410,14 @@ and devise a test statistic which is sensitive to this sort of mis-specification
 
 ---
 
+## Interesting Projects
+
+[Linux Foundation Ai & Data](https://lfaidata.foundation/)
+
+[Onnx](https://onnx.ai/) - Open Neural Network Exchange
+
+[Tikv](https://tikv.org/)
+
 
 ## Interesting Code
 
