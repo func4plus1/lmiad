@@ -436,6 +436,7 @@ Cross Validation
 
 Differential Programming
 * [Differential Programming Manifesto](https://github.com/apple/swift/blob/main/docs/DifferentiableProgramming.md)
+* [Conal Elliot Video @ Microsoft Research](https://youtu.be/ne99laPUxN4)
 
 
 Transformers
