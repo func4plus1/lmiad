@@ -432,6 +432,9 @@ Cross Validation
 * [Video Explanation](https://www.youtube.com/embed/TIgfjmp-4BA)
 * K-Fold (Leave One Out) [Video Explained](https://www.youtube.com/embed/6dbrR-WymjI)
 
+Differential Programming
+* [Differential Programming Manifesto](https://github.com/apple/swift/blob/main/docs/DifferentiableProgramming.md)
+
 
 Transformers
 
@@ -440,3 +443,5 @@ Transformers
 Support Vector Machines
 * [LibSVM](https://www.csie.ntu.edu.tw/~cjlin/libsvm/) - Library for SVM
 * [A Practical Guide to SVM](https://www.csie.ntu.edu.tw/~cjlin/papers/guide/guide.pdf)
+
+
