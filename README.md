@@ -48,6 +48,8 @@ in the mirror to see an example of an intelligent system",
 
 (2020) [AdaBelief Optimizer: Adapting Stepsizes by the Belief in Observed Gradients](https://arxiv.org/pdf/2010.07468.pdf)
 
+(2020) [Gaussian Error Linear Unit](https://arxiv.org/pdf/1606.08415.pdf)
+
 (2020) [Big Transfer: General Visual Representation Learning](https://arxiv.org/pdf/1912.11370.pdf)
 
 (2020) [A Mache Learning Automated Recommendation Tool for Synthetic Biology](https://www.nature.com/articles/s41467-020-18008-4)
@@ -107,6 +109,8 @@ Records](https://arxiv.org/ftp/arxiv/papers/1903/1903.09296.pdf)
 
 (2017) [Enriching Word Vectors With Subword Informtation](https://arxiv.org/pdf/1607.04606.pdf)
 
+(2017) [Language Modeling with Gated Convolutional Networks](https://arxiv.org/pdf/1612.08083.pdf) - Gated Linear Unit (Glu) implemented in torch.nn.functional
+
 (2016) [Federated Optimization: Distributed Machine Learning for On-Device Intelligence](https://arxiv.org/pdf/1610.02527.pdf)
 
 (2016) [Wavenet: A Generative Model For Raw Audio](https://arxiv.org/pdf/1609.03499.pdf)
@@ -118,6 +122,8 @@ Records](https://arxiv.org/ftp/arxiv/papers/1903/1903.09296.pdf)
 (2015) [Predicting the sequence specificities of DNA and RNA-binding proteins by deep learning](https://cpb-us-w2.wpmucdn.com/u.osu.edu/dist/0/72768/files/2019/01/2016-03-18-Predicting-the-sequence-specificities-of-DNA-and-RNA-binding-proteins-by-deep-learning-1xugui1.pdf)
 
 (2015) [Fractional Max Pooling](https://arxiv.org/pdf/1412.6071.pdf) - Implemented in torch.nn.functional
+
+(2015) [Delving Deep into Rectifiers: Surpassing Human-Level Performance on ImageNet Classification](https://arxiv.org/pdf/1502.01852.pdf) - Kaiming in [torch.nn.init.py](https://github.com/pytorch/pytorch/blob/master/torch/nn/init.py#L387)
 
 (2014) [Neural Machine Translation By Jointly Learning to Align and Translate](https://arxiv.org/pdf/1409.0473)
 
