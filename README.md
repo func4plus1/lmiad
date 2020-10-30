@@ -452,6 +452,11 @@ Differential Programming
 * [Differential Programming Manifesto](https://github.com/apple/swift/blob/main/docs/DifferentiableProgramming.md)
 * [Conal Elliot Video @ Microsoft Research](https://youtu.be/ne99laPUxN4)
 
+Dropout
+* "During training, randomly zeroes some of the elements of the input
+    tensor with probability :attr:`p` using samples from a Bernoulli
+    distribution."
+
 
 Transformers
 
