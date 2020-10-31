@@ -437,6 +437,8 @@ and devise a test statistic which is sensitive to this sort of mis-specification
 
 [Doc Product](https://github.com/re-search/DocProduct) - Medical Q&A with Deep Language Models 
 
+[Eigen](https://gitlab.com/libeigen/eigen) - A C++ template library for linear algebra: matrices, vectors, numerical solvers, and related algorithms.
+
 ---
 
 ## Interesting Data
