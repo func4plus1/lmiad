@@ -456,6 +456,9 @@ Cross Validation
 * [Video Explanation](https://www.youtube.com/embed/TIgfjmp-4BA)
 * K-Fold (Leave One Out) [Video Explained](https://www.youtube.com/embed/6dbrR-WymjI)
 
+CUDA
+* [Low Level GPU Memory Management](https://developer.nvidia.com/blog/introducing-low-level-gpu-virtual-memory-management/)
+
 Differential Programming
 * [Differential Programming Manifesto](https://github.com/apple/swift/blob/main/docs/DifferentiableProgramming.md)
 * [Conal Elliot Video @ Microsoft Research](https://youtu.be/ne99laPUxN4)
