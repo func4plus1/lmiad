@@ -441,6 +441,8 @@ and devise a test statistic which is sensitive to this sort of mis-specification
 
 [Jax](https://github.com/google/jax) - JAX is Autograd and XLA, brought together for high-performance machine learning research. What’s new is that JAX uses XLA to compile and run your NumPy programs on GPUs and TPUs. Compilation happens under the hood by default, with library calls getting just-in-time compiled and executed.
 
+[LibSVM](https://www.csie.ntu.edu.tw/~cjlin/libsvm/) - Library for SVM
+
 ---
 
 ## Interesting Data
