@@ -395,6 +395,50 @@ k participants with the same data structure collaborativelylearn a machine learn
 
 a common representation between the two feature space is learned using the limited common sample sets andl ater applied to obtain predictions for samples with only one-side features.
 
+## (20190 [Deep Learning in Spike Neural Networks](https://arxiv.org/pdf/1804.08150.pdf)
+
+> SNNs have some advantages over traditional
+neural networks in regard to implementation in special
+purpose hardware. At the present, effective training of
+traditional deep networks requires the use of energy
+intensive high-end graphic cards. Spiking networks have
+the interesting property that the output spike trains can be
+made sparse in time. An advantage of this in biological
+networks is that the spike events consume energy and
+that using few spikes which have high information
+content reduces energy consumption...Thus, it is possible to create low energy spiking
+hardware based on the property that spikes are sparse in
+time.
+
+> An SNN architecture consists of spiking neurons and
+interconnecting synapses that are modeled by adjustable
+scalar weights. The first step in implementing an SNN
+is to encode the analog input data into the spike trains
+using either a rate based method, some form
+of temporal coding, or population coding.
+
+> The learning rule
+of an SNN is its most challenging component for developing multi-layer (deep) SNNs, because the nondifferentiability of spike trains limits the popular backpropagation algorithm.
+
+> Spiking enables a type of bio-plausible learning rule that cannot be directly
+replicated in non-spiking networks. Neuroscientists have
+identified many variants of this learning rule that falls
+under the umbrella term spike-timing-dependent plasticity (STDP). Its key feature is that the weight (synaptic
+efficacy) connecting a pre- and post-synaptic neuron is
+adjusted according to their relative spike times within an
+interval of roughly tens of milliseconds in length.
+
+> A more direct approach to taking advantage of power efficient SNNs is to convert an offline trained DNN
+to a neuromorphic spiking platform (ANN-to-SNN),
+specifically for hardware implementation.
+
+> The main approach to take advantage of spiking
+platforms while avoiding the training process of spiking CNNs is to convert an already trained CNN to
+a spiking architecture by using the trained synaptic
+weights, similar to the ANN-to-SNN conversion method.
+Many studies have shown high performance of converted
+spiking CNNs (close to conventional CNNs) while using fewer operations and consuming less energy.
+
 ## (2011) [Philosophy and the practice of Bayesian statistics](http://www.stat.columbia.edu/~gelman/research/unpublished/philosophy.pdf)
 
 > Bayesian statistics or “inverse probability”—starting with a prior distribution, getting data, and moving to the posterior distribution—is associated with an inductive approach of learning about the general from particulars.
