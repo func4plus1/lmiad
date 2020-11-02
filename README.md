@@ -87,7 +87,9 @@ Records](https://arxiv.org/ftp/arxiv/papers/1903/1903.09296.pdf)
 
 (2019) [BioBert: A Pretrained Biomedical Language Representation Model For Biomedical Text Mining](https://arxiv.org/pdf/1901.08746v4.pdf,https://github.com/dmis-lab/biobert)
 
-(2019) [FastSpeech: Fast, Robust and ControllableText to Speech](https://arxiv.org/pdf/1905.09263.pdf)
+(2019) [FastSpeech: Fast, Robust and ControllableText to Speech](https://arxiv.org/pdf/1905.09263.pdf)\
+
+(2019) [Deep Learning in Spiking Neural Networks](https://arxiv.org/pdf/1804.08150.pdf)
 
 (2019) [Lessons from Two Design−Build−Test−Learn Cycles of Dodecanol Production in Escherichia coli Aided by Machine Learning](https://pubs.acs.org/doi/pdf/10.1021/acssynbio.9b00020)
 
