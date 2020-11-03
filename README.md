@@ -529,4 +529,8 @@ Support Vector Machines
 * [LibSVM](https://www.csie.ntu.edu.tw/~cjlin/libsvm/) - Library for SVM
 * [A Practical Guide to SVM](https://www.csie.ntu.edu.tw/~cjlin/papers/guide/guide.pdf)
 
+# Edge ML
+
+[Google + Facebook chose Zephyr for RTOS](https://www.prnewswire.com/news-releases/google-and-facebook-select-zephyr-rtos-for-next-generation-products-301141973.html)
+
 
