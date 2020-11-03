@@ -531,6 +531,10 @@ Support Vector Machines
 
 # Edge ML
 
+Zephr Os
+
+The Zephyr OS is based on a small-footprint kernel designed for use on resource-constrained and embedded systems: from simple embedded environmental sensors and LED wearables to sophisticated embedded controllers, smart watches, and IoT wireless applications.
+
 [Google + Facebook chose Zephyr for RTOS](https://www.prnewswire.com/news-releases/google-and-facebook-select-zephyr-rtos-for-next-generation-products-301141973.html)
 
 
