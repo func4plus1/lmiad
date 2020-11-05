@@ -539,4 +539,13 @@ The Zephyr OS is based on a small-footprint kernel designed for use on resource-
 
 [Google + Facebook chose Zephyr for RTOS](https://www.prnewswire.com/news-releases/google-and-facebook-select-zephyr-rtos-for-next-generation-products-301141973.html)
 
+## Concepts
+
+Make [Manual](https://www.gnu.org/software/make/manual/make.html)
+
+[UAT](Universal asynchronous receiver-transmitter)
+ * a computer hardware device for asynchronous serial communication in which the data format and transmission speeds are configurable.
+ * takes bytes of data and transmits the individual bits in a sequential fashion.
+ * At the destination, a second UART re-assembles the bits into complete bytes. 
+ * Each UART contains a shift register, which is the fundamental method of conversion between serial and parallel forms. 
 
