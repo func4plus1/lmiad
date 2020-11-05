@@ -543,7 +543,7 @@ The Zephyr OS is based on a small-footprint kernel designed for use on resource-
 
 Make [Manual](https://www.gnu.org/software/make/manual/make.html)
 
-[UAT](Universal asynchronous receiver-transmitter)
+[UAT - Universal asynchronous receiver-transmitter](https://en.wikipedia.org/wiki/Universal_asynchronous_receiver-transmitter)
  * a computer hardware device for asynchronous serial communication in which the data format and transmission speeds are configurable.
  * takes bytes of data and transmits the individual bits in a sequential fashion.
  * At the destination, a second UART re-assembles the bits into complete bytes. 
