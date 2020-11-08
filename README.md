@@ -189,6 +189,8 @@ Records](https://arxiv.org/ftp/arxiv/papers/1903/1903.09296.pdf)
 
 (1970) [Problem-Solving Methods In Artifical Intelligence](https://cse.buffalo.edu/~rapaport/572/S02/nilsson.8puzzle.pdf)
 
+(1970) [Notes On Structured Programming](https://www.cs.utexas.edu/users/EWD/ewd02xx/EWD249.PDF)
+
 (1969) [Applied Optimal Control](https://archive.org/details/AppliedOptimalControl/page/n5/mode/2up)
 
 (1967) [Computation:Finite and Infinite Machines](http://www.cba.mit.edu/events/03.11.ASE/docs/Minsky.pdf)
