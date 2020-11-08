@@ -115,6 +115,8 @@ Records](https://arxiv.org/ftp/arxiv/papers/1903/1903.09296.pdf)
 
 (2017) [Language Modeling with Gated Convolutional Networks](https://arxiv.org/pdf/1612.08083.pdf) - Gated Linear Unit (Glu) implemented in torch.nn.functional
 
+(2017) [Attention-based Extraction of Structured Information from Street View Imagery](https://arxiv.org/pdf/1704.03549.pdf)
+
 (2016) [Federated Optimization: Distributed Machine Learning for On-Device Intelligence](https://arxiv.org/pdf/1610.02527.pdf)
 
 (2016) [Wavenet: A Generative Model For Raw Audio](https://arxiv.org/pdf/1609.03499.pdf)
