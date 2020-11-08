@@ -183,6 +183,8 @@ Records](https://arxiv.org/ftp/arxiv/papers/1903/1903.09296.pdf)
 
 (1978) [An Introduction to Artificial Intelligence: Can Computers Think?](https://archive.org/details/AnIntroductionToArtificialIntelligence)
 
+(1972) [The Humble Programmer](https://www.cs.utexas.edu/users/EWD/ewd03xx/EWD340.PDF) - Djikstra
+
 (1971) [The Complexity of Thereom Proving Procedures](https://www.cs.toronto.edu/~sacook/homepage/1971.pdf)
 
 (1970) [Problem-Solving Methods In Artifical Intelligence](https://cse.buffalo.edu/~rapaport/572/S02/nilsson.8puzzle.pdf)
