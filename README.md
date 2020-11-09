@@ -543,6 +543,8 @@ Support Vector Machines
 
 # Edge ML
 
+What is Edge ML? "Embedded real-time optimization" (as described in *Convex Optimization")
+
 Zephr Os
 
 The Zephyr OS is based on a small-footprint kernel designed for use on resource-constrained and embedded systems: from simple embedded environmental sensors and LED wearables to sophisticated embedded controllers, smart watches, and IoT wireless applications.
