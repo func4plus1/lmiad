@@ -177,6 +177,8 @@ Records](https://arxiv.org/ftp/arxiv/papers/1903/1903.09296.pdf)
 
 (1986) [Learning and Relearning in Boltzmann Machines](http://www.cs.utoronto.ca/~hinton/absps/pdp7.pdf)
 
+(1985) [Communicating Sequential Processes](http://lass.cs.umass.edu/~shenoy/courses/677/readings/Hoare.pdf) - with a forward by Dijkstra
+
 (1983) [Optimal Perceptual Inference](https://papers.cnl.salk.edu/PDFs/Optimal%20Perceptual%20Inference%201983-646.pdf)
 
 (1982) [Neurons With Graded Response have collective computational properties like those of two state neurons](http://cogsci.ucsd.edu/~sereno/107B/readings/02.02-AttractorCont.pdf)
