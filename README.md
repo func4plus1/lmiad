@@ -367,6 +367,20 @@ trained on 100M tokens, improving perplexity from 19.59 to 15.17. However, addin
 This result suggests that rather than training language models on ever larger datasets, we can use
 smaller datasets to learn representations and augment them with kNN-LM over a large corpus.
 
+> the Transformer is expressive
+enough to memorize all training examples, learning to do so does not result in context representations
+that generalize. In contrast, kNN-LM memorizes training data while improving generalization.
+From these experiments, we conjecture that kNN-LM improves performance because (1) the Transformer LM is very good at learning a representation function for contexts with an implicit notion
+of similarity, and (2) while the Transformer has capacity to memorize all training examples, doing
+so causes its representation to generalize less effectively, but (3) the kNN-LM allows the model to
+memorize the training data while retaining an effective similarity function.
+
+> A general trend in machine learning, and in language modeling in particular, is that adding more
+data consistently improves performance (Devlin et al., 2019; Radford et al., 2019; Yang et al., 2019;
+Liu et al., 2019; Zellers et al., 2019; Shoeybi et al., 2019). Our work offers an alternative method
+for scaling language models, in which relatively small models learn context representations, and a
+nearest neighbour search acts as a highly expressive classifier.
+
 
 ## (2019) [The Scientific Method in the Science of Machine Learning](https://arxiv.org/pdf/1904.10922.pdf)
 
