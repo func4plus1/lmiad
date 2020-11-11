@@ -348,6 +348,25 @@ according to distance in the pre-trained embedding space and can be drawn from a
 
 ![KNN Language Models](knn_language_models.png)
 
+> Although the kNN-LM requires no training given an existing LM, it does
+add some other computational overheads. Storing the keys and values requires a single forward pass
+over the training set, which amounts to a fraction of the cost of training for one epoch on the same
+examples. Once the keys are saved, for WIKITEXT-103 building the cache with 103M entries takes
+roughly two hours on a single CPU. Finally, running on the validation set took approximately 25
+minutes when retrieving 1024 keys. While the cost of building a large cache grows linearly in the
+number of entries, it is trivial to parallelize and requires no GPU-based training.
+
+> Section 4.1 has shown that retrieving neighbors from the training data can significantly improve
+language modeling performance. This raises the question: can retrieving nearest neighbors from
+data be a substitute for training on it? To test this, we train a LM on WIKI-100M and use it to build
+a datastore from WIKI-3B, a corpus 30 times larger than the training set. We then compare this
+kNN-LM to a vanilla LM trained on the entire WIKI-3B corpus.
+
+> Table 3 shows that, as expected, the model trained on 3B tokens dramatically outperforms the model
+trained on 100M tokens, improving perplexity from 19.59 to 15.17. However, adding nearest neighbors retrieval over those 3B examples to the model trained on 100M tokens improves perplexity from 19.59 to 13.73; i.e. retrieving nearest neighbors from the corpus outperforms training on it.
+This result suggests that rather than training language models on ever larger datasets, we can use
+smaller datasets to learn representations and augment them with kNN-LM over a large corpus.
+
 
 ## (2019) [The Scientific Method in the Science of Machine Learning](https://arxiv.org/pdf/1904.10922.pdf)
 
