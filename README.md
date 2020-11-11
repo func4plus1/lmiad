@@ -338,6 +338,14 @@ The end-to-end machine learning process includes the following phases:
 
 ---
 
+## (2020) [Generalization Through Memorization - Nearest Neighbor Language Models](https://arxiv.org/pdf/1911.00172.pdf)
+
+> We introduce kNN-LM, an approach that extends a pre-trained LM by linearly interpolating its next
+word distribution with a k-nearest neighbors (kNN) model. The nearest neighbors are computed
+according to distance in the pre-trained embedding space and can be drawn from any text collection, including the original LM training data.
+
+> Training a model on 100-million tokens and using kNN search over a 3-billion token dataset can outperform training the same model on all 3-billion tokens, opening a new path for efficiently using large datasets in language models. Similarly, adding out-of-domain data to the datastore makes a single LM useful across multiple domains, again without further training.
+
 
 ## (2019) [The Scientific Method in the Science of Machine Learning](https://arxiv.org/pdf/1904.10922.pdf)
 
