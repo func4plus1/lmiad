@@ -346,6 +346,8 @@ according to distance in the pre-trained embedding space and can be drawn from a
 
 > Training a model on 100-million tokens and using kNN search over a 3-billion token dataset can outperform training the same model on all 3-billion tokens, opening a new path for efficiently using large datasets in language models. Similarly, adding out-of-domain data to the datastore makes a single LM useful across multiple domains, again without further training.
 
+![KNN Language Models](knn_language_models.png)
+
 
 ## (2019) [The Scientific Method in the Science of Machine Learning](https://arxiv.org/pdf/1904.10922.pdf)
 
