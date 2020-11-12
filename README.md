@@ -552,6 +552,8 @@ and devise a test statistic which is sensitive to this sort of mis-specification
 
 [LibSVM](https://www.csie.ntu.edu.tw/~cjlin/libsvm/) - Library for SVM
 
+[Tract](https://github.com/sonos/tract) - Sonos sound company making a Rust port of NNEF
+
 ---
 
 ## Interesting Data
