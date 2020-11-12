@@ -525,7 +525,11 @@ and devise a test statistic which is sensitive to this sort of mis-specification
 
 [Linux Foundation Ai & Data](https://lfaidata.foundation/)
 
+[NNEF - Neural Network Exchange Format](https://www.khronos.org/nnef) - The goal of NNEF is to enable data scientists and engineers to easily transfer trained networks from their chosen training framework into a wide variety of inference engines. NNEF has been designed to be reliably exported and imported across tools and engines such as Torch, Caffe, TensorFlow, Theano, Chainer, Caffe2, PyTorch, and MXNet. 
+
 [Onnx](https://onnx.ai/) - Open Neural Network Exchange
+
+
 
 [Open CV](https://opencv.org/)
 
