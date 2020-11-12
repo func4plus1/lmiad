@@ -529,7 +529,7 @@ and devise a test statistic which is sensitive to this sort of mis-specification
 
 [Onnx](https://onnx.ai/) - Open Neural Network Exchange
 
-
+![NNEF + ONNX](nnef_onnx.png) 
 
 [Open CV](https://opencv.org/)
 
