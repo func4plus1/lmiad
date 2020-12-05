@@ -111,7 +111,7 @@ Records](https://arxiv.org/ftp/arxiv/papers/1903/1903.09296.pdf)
 
 (2018) [Demystifying Parallel and Distributed Deep Learning: An In-Depth Concurrency Analysis](https://arxiv.org/pdf/1802.09941.pdf)
 
-(2017) [Attention is All You Need](https://arxiv.org/pdf/1706.03762.pdf) 
+**(2017) [Attention is All You Need](https://arxiv.org/pdf/1706.03762.pdf)**
 
 (2017) [Enriching Word Vectors With Subword Informtation](https://arxiv.org/pdf/1607.04606.pdf)
 
