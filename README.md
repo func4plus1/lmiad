@@ -601,13 +601,32 @@ Support Vector Machines
 
 What is Edge ML? "Embedded real-time optimization" (as described in *Convex Optimization")
 
-Zephr Os
+##[IoT and Edge Computing with Kubernetes WhitePaper](https://docs.google.com/document/d/1We-pRDV9LDFo-vd9DURCPC5-Bum2FvjHUGZ1tacGmk8/edit#heading=h.n4tqqt3iuizs)
+
+> Edge is computing workloads at the client device.
+
+> One of the crucial factors that makes Edge computing different than the pure Cloud based solutions is minimizing network traffic over larger distances between devices (users) and the workloads. **reliability**
+
+> So having data (pre)processed at the edge node can help us deal with bandwidth issues and avoid network saturation.
+
+>  The value of Edge data (pre)processing is not only limited to bandwidth, but can also help to **reduce overall latency** of the system, which is one of the main drivers of Edge computing for many applications.
+
+> With Edge computing architectures, we can enforce policies where sensitive data may never leave the physical environment. **data privacy** 
+
+>  Through enforcing policies on the edge we should be able to provide a better security of the whole system as well, by adding a protection layer closer to the originating source of possible attacks (devices).
+
+
+## Zephr Os
 
 The Zephyr OS is based on a small-footprint kernel designed for use on resource-constrained and embedded systems: from simple embedded environmental sensors and LED wearables to sophisticated embedded controllers, smart watches, and IoT wireless applications.
 
 [Zephhyr, TF Lite, RiscV Presentation](https://riscv.org/wp-content/uploads/2018/12/zephyr-tensorflow-lite-risc-v.pdf)
 
 [Google + Facebook chose Zephyr for RTOS](https://www.prnewswire.com/news-releases/google-and-facebook-select-zephyr-rtos-for-next-generation-products-301141973.html)
+
+[KubeEdge](https://kubeedge.io/en/) - Cloud Native Foundation Incubated Project
+
+> KubeEdge is an open source system for extending native containerized application orchestration capabilities to hosts at Edge.It is built upon kubernetes and provides fundamental infrastructure support for network, app deployment and metadata synchronization between cloud and edge.
 
 ## Concepts
 
