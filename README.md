@@ -642,3 +642,4 @@ Make [Manual](https://www.gnu.org/software/make/manual/make.html)
  * At the destination, a second UART re-assembles the bits into complete bytes. 
  * Each UART contains a shift register, which is the fundamental method of conversion between serial and parallel forms. 
 
+# Model Hacking / Adversarial Machine Learning
