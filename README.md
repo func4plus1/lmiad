@@ -135,6 +135,8 @@ Records](https://arxiv.org/ftp/arxiv/papers/1903/1903.09296.pdf)
 
 (2015) [Fractional Max Pooling](https://arxiv.org/pdf/1412.6071.pdf) - Implemented in torch.nn.functional
 
+(2015) [Hidden Technical Debt in 
+
 (2015) [Delving Deep into Rectifiers: Surpassing Human-Level Performance on ImageNet Classification](https://arxiv.org/pdf/1502.01852.pdf) | - Kaiming Normal  [torch.nn.init.py](https://github.com/pytorch/pytorch/blob/master/torch/nn/init.py#L387), Kaiming Uniform [torch.nn.init.py](https://github.com/pytorch/pytorch/blob/master/torch/nn/init.py#L387)
 
 (2014) [Neural Machine Translation By Jointly Learning to Align and Translate](https://arxiv.org/pdf/1409.0473)
