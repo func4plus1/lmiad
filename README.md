@@ -601,7 +601,7 @@ Support Vector Machines
 
 What is Edge ML? "Embedded real-time optimization" (as described in *Convex Optimization")
 
-##[IoT and Edge Computing with Kubernetes WhitePaper](https://docs.google.com/document/d/1We-pRDV9LDFo-vd9DURCPC5-Bum2FvjHUGZ1tacGmk8/edit#heading=h.n4tqqt3iuizs)
+## [IoT and Edge Computing with Kubernetes WhitePaper](https://docs.google.com/document/d/1We-pRDV9LDFo-vd9DURCPC5-Bum2FvjHUGZ1tacGmk8/edit#heading=h.n4tqqt3iuizs)
 
 > Edge is computing workloads at the client device.
 
