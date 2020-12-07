@@ -643,3 +643,5 @@ Make [Manual](https://www.gnu.org/software/make/manual/make.html)
  * Each UART contains a shift register, which is the fundamental method of conversion between serial and parallel forms. 
 
 # Model Hacking / Adversarial Machine Learning
+
+[Macafee Makes A Tesla Go 85MPH in a 35MPH Zone Using Model Hacking](https://www.mcafee.com/blogs/other-blogs/mcafee-labs/model-hacking-adas-to-pave-safer-roads-for-autonomous-vehicles/)
