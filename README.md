@@ -54,6 +54,8 @@ in the mirror to see an example of an intelligent system",
 
 (2020) [Big Transfer: General Visual Representation Learning](https://arxiv.org/pdf/1912.11370.pdf)
 
+(2020) [Kafka-ML: connecting the data stream with ML/AI frameworks](https://arxiv.org/pdf/2006.04105.pdf) | [code](https://github.com/ertis-research/kafka-ml)
+
 (2020) [A Mache Learning Automated Recommendation Tool for Synthetic Biology](https://www.nature.com/articles/s41467-020-18008-4)
 
 (2020) [Sequence to function deep learning frameworks for engineered riboregulators](https://www.nature.com/articles/s41467-020-18676-2)
