@@ -60,6 +60,8 @@ in the mirror to see an example of an intelligent system",
 
 (2020) [A Deep Learning Approach to Programmable RNA switches](https://www.nature.com/articles/s41467-020-18677-1)
 
+(2020) [Machine Learning Adoption in Blockchain-Based Smart Applications: The Challenges, and a Way Forward](https://www.researchgate.net/publication/340174274_Machine_Learning_Adoption_in_Blockchain-Based_Smart_Applications_The_Challenges_and_a_Way_Forward)
+
 (2019) [The Scientific Method in the Science of Machine Learning](https://arxiv.org/pdf/1904.10922.pdf)
 
 (2019) [FinBERT: Financial Sentiment Analysis With Pre-Trained Language Models](https://arxiv.org/pdf/1908.10063.pdf,https://github.com/ProsusAI/finBERT)
@@ -382,7 +384,6 @@ data consistently improves performance (Devlin et al., 2019; Radford et al., 201
 Liu et al., 2019; Zellers et al., 2019; Shoeybi et al., 2019). Our work offers an alternative method
 for scaling language models, in which relatively small models learn context representations, and a
 nearest neighbour search acts as a highly expressive classifier.
-
 
 ## (2019) [The Scientific Method in the Science of Machine Learning](https://arxiv.org/pdf/1904.10922.pdf)
 
