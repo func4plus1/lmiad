@@ -503,6 +503,9 @@ weights, similar to the ANN-to-SNN conversion method.
 Many studies have shown high performance of converted
 spiking CNNs (close to conventional CNNs) while using fewer operations and consuming less energy.
 
+---
+---
+
 (2015) [Hidden Technical Debt in Machine Learning Systems](https://papers.nips.cc/paper/2015/file/86df7dcfd896fcaf2674f757a2463eba-Paper.pdf)
 
 Technical debt: 
