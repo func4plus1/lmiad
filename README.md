@@ -505,17 +505,12 @@ spiking CNNs (close to conventional CNNs) while using fewer operations and consu
 
 (2015) [Hidden Technical Debt in Machine Learning Systems](https://papers.nips.cc/paper/2015/file/86df7dcfd896fcaf2674f757a2463eba-Paper.pdf)
 
-Technical debt = 
+Technical debt: 
  * "the long term costs incurred by moving quickly in software engineering."
 
 Paying technical debt: 
 * "The goal is not to add new functionality, but to enable future improvements, reduce errors, and improve maintainability."
 * "Deferring such payments results in compounding costs. Hidden debt is dangerous because it compounds silently"
-
-ML Technical Debt
-* *ML systems have a special capacity for incurring technical debt, because
-they have all of the maintenance problems of traditional code plus an additional set of ML-specific
-issues.* 
 
 Technical debt may be paid down by 
 * refactoring code
@@ -525,58 +520,51 @@ Technical debt may be paid down by
 * tightening API's
 * improving documentation. 
 
+ML Technical Debt:
+* *ML systems have a special capacity for incurring technical debt, because
+they have all of the maintenance problems of traditional code plus an additional set of ML-specific
+issues.* 
+* *This debt may be difficult to detect because it exists at the system level rather than the code
+level.*
 
-> This debt may be difficult to detect because it exists at the system level rather than the code
-level.
-
-Reasons fortechnical debt in ML systems:
-* Entanglement
-> Machine learning systems mix signals together, entangling them and making isolation of improvements impossible.
-
-> . No inputs are ever really independent. 
-
-> We refer to this here
-as the CACE principle: Changing Anything Changes Everything. CACE applies not only to input
-signals, but also to hyper-parameters, learning settings, sampling methods, convergence thresholds,
-data selection, and essentially every other possible tweak.
-
-* Correction Cascades
-> A correction model creates a new system dependency... making it significantly
+Types of Technial devt in ML Systems: 
+* **Entanglement**
+  * Machine learning systems mix signals together, entangling them and making isolation of improvements impossible.
+  * No inputs are ever really independent. 
+  * CACE principle: Changing Anything Changes Everything. 
+  * CACE applies not only to input signals, but also:
+    * hyper-parameters
+    * learning settings
+    * sampling methods
+    * convergence thresholds
+    * data selection
+    * and essentially every other possible tweak.
+* **Correction Cascades**
+  * A correction model creates a new system dependency... making it significantly
 more expensive to analyze improvements to that model in the future.
-
-> Once in place, a correction cascade can create an
+  * Once in place, a correction cascade can create an
 improvement deadlock, as improving the accuracy of any individual component actually leads to
 system-level detriments.
-
-* Undeclared Consumers 
-> Without access controls, some (model) consumers may be undeclared, silently using
+* **Undeclared Consumers** 
+ * Without access controls, some (model) consumers may be undeclared, silently using
 the output of a given model as an input to another system (visibility debt). 
-
-> Undeclared consumers are expensive at best and dangerous at worst, because they create a hidden
+ * Undeclared consumers are expensive at best and dangerous at worst, because they create a hidden
 tight coupling of a model to other parts of the stack. Changes to the model will very likely impact these
 other parts, potentially in ways that are unintended, poorly understood, and detrimental.
-
-> In practice,
-this tight coupling can radically increase the cost and difficulty of making any changes to the model at all,
+*  In practice, this tight coupling can radically increase the cost and difficulty of making any changes to the model at all,
 even if they are improvements (and can create hidden feedback loops). 
-
-Unstable Data Dependencies 
-
-> some input signals are unstable, meaning
+* **Unstable Data Dependencies** 
+  * some input signals are unstable, meaning
 that they qualitatively or quantitatively change behavior over time.
-
-> engineering ownership of the input signal is separate from the
+  * engineering ownership of the input signal is separate from the
 engineering ownership of the model that consumes it.
-
-> This is dangerous because even “improvements” to input signals may
+  * This is dangerous because even “improvements” to input signals may
 have arbitrary detrimental effects in the consuming system that are costly to diagnose and address.
-
-> One common **mitigation strategy** for unstable data dependencies is to create a versioned copy of a
+  * One common **mitigation strategy** for unstable data dependencies is to create a versioned copy of a
 given signal.
-
-> Versioning carries its own costs, however,
-* potential staleness (concept drift not addresssed) 
-* cost to maintain multiple versions of the same signal over time
+   * Versioning carries its own costs, however,
+    * potential staleness (concept drift not addresssed) 
+    * cost to maintain multiple versions of the same signal over time
 
 
 ## (2011) [Philosophy and the practice of Bayesian statistics](http://www.stat.columbia.edu/~gelman/research/unpublished/philosophy.pdf)
