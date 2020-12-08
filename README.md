@@ -546,12 +546,12 @@ more expensive to analyze improvements to that model in the future.
 improvement deadlock, as improving the accuracy of any individual component actually leads to
 system-level detriments.
 * **Undeclared Consumers** 
- * Without access controls, some (model) consumers may be undeclared, silently using
+   * Without access controls, some (model) consumers may be undeclared, silently using
 the output of a given model as an input to another system (visibility debt). 
- * Undeclared consumers are expensive at best and dangerous at worst, because they create a hidden
+   * Undeclared consumers are expensive at best and dangerous at worst, because they create a hidden
 tight coupling of a model to other parts of the stack. Changes to the model will very likely impact these
 other parts, potentially in ways that are unintended, poorly understood, and detrimental.
-*  In practice, this tight coupling can radically increase the cost and difficulty of making any changes to the model at all,
+  *  In practice, this tight coupling can radically increase the cost and difficulty of making any changes to the model at all,
 even if they are improvements (and can create hidden feedback loops). 
 * **Unstable Data Dependencies** 
   * some input signals are unstable, meaning
@@ -563,8 +563,8 @@ have arbitrary detrimental effects in the consuming system that are costly to di
   * One common **mitigation strategy** for unstable data dependencies is to create a versioned copy of a
 given signal.
    * Versioning carries its own costs, however,
-    * potential staleness (concept drift not addresssed) 
-    * cost to maintain multiple versions of the same signal over time
+     * potential staleness (concept drift not addresssed) 
+     * cost to maintain multiple versions of the same signal over time
 
 
 ## (2011) [Philosophy and the practice of Bayesian statistics](http://www.stat.columbia.edu/~gelman/research/unpublished/philosophy.pdf)
