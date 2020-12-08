@@ -577,6 +577,7 @@ Because of deadline pressures or similar effects, all the features in the bundle
 the model together, possibly including features that add little or no value.
     * **Epsilon Features** - improving model with new features at high cost of comlexity with little gain to model
     * **Correalted Features** - two features strongly correlated, both given credit but only one is actually causal. If the world changes, correlation might change and the causal feature might be eliminated without having been discovered and extracted. 
+ * Underutilized dependencies can be detected via exhaustive leave-one-feature-out evaluations.
 
 
 ## (2011) [Philosophy and the practice of Bayesian statistics](http://www.stat.columbia.edu/~gelman/research/unpublished/philosophy.pdf)
