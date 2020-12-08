@@ -509,11 +509,11 @@ spiking CNNs (close to conventional CNNs) while using fewer operations and consu
 (2015) [Hidden Technical Debt in Machine Learning Systems](https://papers.nips.cc/paper/2015/file/86df7dcfd896fcaf2674f757a2463eba-Paper.pdf)
 
 Technical debt: 
- * "the long term costs incurred by moving quickly in software engineering."
+ * *"the long term costs incurred by moving quickly in software engineering.*
 
 Paying technical debt: 
-* "The goal is not to add new functionality, but to enable future improvements, reduce errors, and improve maintainability."
-* "Deferring such payments results in compounding costs. Hidden debt is dangerous because it compounds silently"
+* *The goal is not to add new functionality, but to enable future improvements, reduce errors, and improve maintainability.*
+* *Deferring such payments results in compounding costs. Hidden debt is dangerous because it compounds silently*
 
 Technical debt may be paid down by 
 * refactoring code
