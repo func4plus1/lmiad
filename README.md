@@ -566,18 +566,18 @@ given signal.
      * potential staleness (concept drift not addresssed) 
      * cost to maintain multiple versions of the same signal over time
  * **Underutilized Data Dependencies** 
-   * input signals that provide little incremental modeling benefit.
-  * These can make an ML system unnecessarily vulnerable to
+    * input signals that provide little incremental modeling benefit.
+    * These can make an ML system unnecessarily vulnerable to
 change, sometimes catastrophically so, even though they could be removed with no detriment
-  * Ways of data (feature) creep: 
-    * **legacy features** - a feature F is included in a model early in
+    * Ways of data (feature) creep: 
+      * **legacy features** - a feature F is included in a model early in
 its development. Over time, F is made redundant by new features but this goes undetected
-    * **bundled features** - Sometimes, a group of features is evaluated and found to be beneficial.
+      * **bundled features** - Sometimes, a group of features is evaluated and found to be beneficial.
 Because of deadline pressures or similar effects, all the features in the bundle are added to
 the model together, possibly including features that add little or no value.
-    * **Epsilon Features** - improving model with new features at high cost of comlexity with little gain to model
-    * **Correalted Features** - two features strongly correlated, both given credit but only one is actually causal. If the world changes, correlation might change and the causal feature might be eliminated without having been discovered and extracted. 
- * Underutilized dependencies can be detected via exhaustive leave-one-feature-out evaluations.
+      * **Epsilon Features** - improving model with new features at high cost of comlexity with little gain to model
+      * **Correalted Features** - two features strongly correlated, both given credit but only one is actually causal. If the world changes, correlation might change and the causal feature might be eliminated without having been discovered and extracted. 
+   * Underutilized dependencies can be detected via exhaustive leave-one-feature-out evaluations.
 
 
 ## (2011) [Philosophy and the practice of Bayesian statistics](http://www.stat.columbia.edu/~gelman/research/unpublished/philosophy.pdf)
