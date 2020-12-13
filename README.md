@@ -685,6 +685,8 @@ Support Vector Machines
 
 What is Edge ML? "Embedded real-time optimization" (as described in *Convex Optimization")
 
+[K3s - Certified Kubernetes for Edge + IoT](https://k3s.io/)
+
 ## [IoT and Edge Computing with Kubernetes WhitePaper](https://docs.google.com/document/d/1We-pRDV9LDFo-vd9DURCPC5-Bum2FvjHUGZ1tacGmk8/edit#heading=h.n4tqqt3iuizs)
 
 > Edge is computing workloads at the client device.
@@ -700,7 +702,7 @@ What is Edge ML? "Embedded real-time optimization" (as described in *Convex Opti
 >  Through enforcing policies on the edge we should be able to provide a better security of the whole system as well, by adding a protection layer closer to the originating source of possible attacks (devices).
 
 
-## Zephr Os
+### Zephr Os
 
 The Zephyr OS is based on a small-footprint kernel designed for use on resource-constrained and embedded systems: from simple embedded environmental sensors and LED wearables to sophisticated embedded controllers, smart watches, and IoT wireless applications.
 
