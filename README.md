@@ -719,12 +719,29 @@ The Zephyr OS is based on a small-footprint kernel designed for use on resource-
 [Macafee Makes A Tesla Go 85MPH in a 35MPH Zone Using Model Hacking](https://www.mcafee.com/blogs/other-blogs/mcafee-labs/model-hacking-adas-to-pave-safer-roads-for-autonomous-vehicles/)
 
 # ML Ops
+
+> "The most important ability is availability"
+
+Reusability, Reproducability, Observability, 
+
 In Model execution we want to track:
    * model run time
    * model parameters 
    * model metrics 
-     * can include metrics from within the events of the execution itself (example metrics per training epoch) 
+     * can include metrics from within the events of the execution itself 
+     * example metrics - error per epoch of training; number of training epochs 
+   * tagging ontology 
    * Execution artefacts 
    
 Each individual model execution should be logged to a replicated/sharded database. 
 
+Thus at least two types of storage are required:
+  * Tracking store
+    * run time metrics
+    * execution metadata
+    * model parameters
+    * model metrics
+    * tags
+  * Artifact Store:
+    * Blob storage
+    * HDFS
