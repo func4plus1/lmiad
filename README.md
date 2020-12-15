@@ -714,16 +714,17 @@ The Zephyr OS is based on a small-footprint kernel designed for use on resource-
 
 > KubeEdge is an open source system for extending native containerized application orchestration capabilities to hosts at Edge.It is built upon kubernetes and provides fundamental infrastructure support for network, app deployment and metadata synchronization between cloud and edge.
 
-## Concepts
-
-Make [Manual](https://www.gnu.org/software/make/manual/make.html)
-
-[UAT - Universal asynchronous receiver-transmitter](https://en.wikipedia.org/wiki/Universal_asynchronous_receiver-transmitter)
- * a computer hardware device for asynchronous serial communication in which the data format and transmission speeds are configurable.
- * takes bytes of data and transmits the individual bits in a sequential fashion.
- * At the destination, a second UART re-assembles the bits into complete bytes. 
- * Each UART contains a shift register, which is the fundamental method of conversion between serial and parallel forms. 
-
 # ML Security
 
 [Macafee Makes A Tesla Go 85MPH in a 35MPH Zone Using Model Hacking](https://www.mcafee.com/blogs/other-blogs/mcafee-labs/model-hacking-adas-to-pave-safer-roads-for-autonomous-vehicles/)
+
+# ML Ops
+In Model execution we want to track:
+   * model run time
+   * model parameters 
+   * model metrics 
+     * can include metrics from within the events of the execution itself (example metrics per training epoch) 
+   * Execution artefacts 
+   
+Each individual model execution should be logged to a replicated/sharded database. 
+
