@@ -622,7 +622,7 @@ and devise a test statistic which is sensitive to this sort of mis-specification
 
 [Open CV](https://opencv.org/)
 
-[Parquet](https://parquet.apache.org/)
+[Parquet](https://parquet.apache.org/) - Columnar storage format available to any project in the Hadoop ecosystem, regardless of the choice of data processing framework, data model or programming language.
 
 [Tikv](https://tikv.org/)
 
