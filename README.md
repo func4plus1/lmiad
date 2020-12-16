@@ -623,6 +623,7 @@ and devise a test statistic which is sensitive to this sort of mis-specification
     * save bandwidth over json
     * Binary format less CPU intensive than human readable JSON
     * great for IOT/mobile
+   * [Tonic](https://github.com/hyperium/tonic) - gRPC in Rust based on [Hyper](https://github.com/hyperium/hyper)/[Tokio](https://github.com/tokio-rs/tokio)
     
 
 [Linux Foundation Ai & Data](https://lfaidata.foundation/)
