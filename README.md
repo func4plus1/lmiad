@@ -620,6 +620,9 @@ and devise a test statistic which is sensitive to this sort of mis-specification
     * documentation embedded
     * small, fast
     * supports most but not all languages
+    * save bandwidth over json
+    * Binary format less CPU intensive than human readable JSON
+    * great for IOT/mobile
     
 
 [Linux Foundation Ai & Data](https://lfaidata.foundation/)
