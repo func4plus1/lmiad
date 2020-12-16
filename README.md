@@ -745,6 +745,7 @@ To support Machine Learning loops, an adaptive system must support:
     * Collaboration is not a single recipe. A Well Architected Machine Learning Framework enables data scientists to share models, model artifacts, model metrics, (and all the elements of the ML Pipeline) without roadblocks. Flexibility is key for empowering Operational Excellence through Machine Learning Engineer and Data Scientist collaborations. 
   * Automation
   * Measurement
+    * Tracking the results of each stage of construction of the "story that a model tells" is perhaps the essential element of science in Machine Learning. Without rpbist end-to-end metrics at the development and production stages, Machine Learning lacks the discipline necessary to shift with a changing world.   
  
  This means:
    *
