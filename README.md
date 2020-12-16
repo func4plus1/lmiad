@@ -614,6 +614,13 @@ and devise a test statistic which is sensitive to this sort of mis-specification
 
 [gRPC](https://grpc.io/) - Open Source RPC Framework
   * [Protocol Buffers](https://developers.google.com/protocol-buffers/docs/overview)
+    * fully typed
+    * data compression
+    * schema required
+    * documentation embedded
+    * small, fast
+    * supports most but not all languages
+    
 
 [Linux Foundation Ai & Data](https://lfaidata.foundation/)
 
