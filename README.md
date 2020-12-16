@@ -742,6 +742,7 @@ The Zephyr OS is based on a small-footprint kernel designed for use on resource-
 
 To support Machine Learning loops, an adaptive system must support:
   * Collaboration 
+    * Collaboration is not a single recipe. A Well Architected Machine Learning Framework enables data scientists to share models, model artifacts, model metrics, (and all the elements of the ML Pipeline) without roadblocks. Flexibility is key for empowering Operational Excellence through Machine Learning Engineer and Data Scientist collaborations. 
   * Automation
   * Measurement
  
