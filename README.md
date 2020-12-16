@@ -720,6 +720,8 @@ The Zephyr OS is based on a small-footprint kernel designed for use on resource-
 
 # ML Ops
 
+![Data Science Infrastructure](data_science_infrastructure.png)
+
 > "The most important ability is availability"
 
 Reusability, Reproducability, Observability, 
