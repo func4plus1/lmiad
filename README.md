@@ -612,6 +612,8 @@ and devise a test statistic which is sensitive to this sort of mis-specification
 
 ## Interesting Projects
 
+[gRPC](https://grpc.io/) - Open Source RPC Framework
+
 [Linux Foundation Ai & Data](https://lfaidata.foundation/)
 
 [NNEF - Neural Network Exchange Format](https://www.khronos.org/nnef) - The goal of NNEF is to enable data scientists and engineers to easily transfer trained networks from their chosen training framework into a wide variety of inference engines. NNEF has been designed to be reliably exported and imported across tools and engines such as Torch, Caffe, TensorFlow, Theano, Chainer, Caffe2, PyTorch, and MXNet. 
@@ -623,6 +625,8 @@ and devise a test statistic which is sensitive to this sort of mis-specification
 [Open CV](https://opencv.org/)
 
 [Parquet](https://parquet.apache.org/) - Columnar storage format available to any project in the Hadoop ecosystem, regardless of the choice of data processing framework, data model or programming language.
+
+[Protocol Buffers](https://developers.google.com/protocol-buffers/docs/overview)
 
 [Tikv](https://tikv.org/)
 
