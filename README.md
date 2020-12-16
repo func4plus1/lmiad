@@ -613,6 +613,7 @@ and devise a test statistic which is sensitive to this sort of mis-specification
 ## Interesting Projects
 
 [gRPC](https://grpc.io/) - Open Source RPC Framework
+  * [Protocol Buffers](https://developers.google.com/protocol-buffers/docs/overview)
 
 [Linux Foundation Ai & Data](https://lfaidata.foundation/)
 
@@ -625,8 +626,6 @@ and devise a test statistic which is sensitive to this sort of mis-specification
 [Open CV](https://opencv.org/)
 
 [Parquet](https://parquet.apache.org/) - Columnar storage format available to any project in the Hadoop ecosystem, regardless of the choice of data processing framework, data model or programming language.
-
-[Protocol Buffers](https://developers.google.com/protocol-buffers/docs/overview)
 
 [Tikv](https://tikv.org/)
 
