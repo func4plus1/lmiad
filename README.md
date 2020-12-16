@@ -724,7 +724,29 @@ The Zephyr OS is based on a small-footprint kernel designed for use on resource-
 
 ![Data Science Infrastructure](data_science_infrastructure.png)
 
+To support Machine Learning loops, an adaptive system must support:
+  * Collaboration 
+  * Automation
+  * Measurement
+  
+An adaptive system is just that - flexible enough to change with the model/architecture demands of your fluxuating data; flexible enough to allow for teams to change directions when the winds change. 
+
+An infrastructure that can only support one type (and even more often -no types) of learning is all too common. Today's accurate model is tomorrows irrelevant failure. The future is a non-stationary problem - when you think you have it figured out, everything changes and your mechanism for prediction needs to be fine-tuned or reinvented. What was moderately accurate at predicting tomorrow will often not have any predictive capacity the day after tomorrow.
+
+A common Machine Learning journey mistake is believing accuracy from historical data automatically proves success. 
+
+**Backtesting accuracy is not accuracy.** 
+
+**Backtesting accuracy is not accuracy.**
+
+**Backtesting accuracy is not accuracy.**
+
+Backtesting is only valuable if you make money from being right about what already happened. Backtesting is useful for getting a gauge on how well your model predicted the past. You can hope the trends of the past are the trends of today, but that is only valuable if your needs fit within a short enough time-window to remain predictive.
+
+Curve fitting is the most dangerous game you can play in any project. When you make promises on forecasting that are based on fitting a curve (overfitting) you run the risk of losing all the confidence built in your team when the real world does not fit the curve you built. In the words of Judea Pearl - Don't be a curve fitter.
+
 > "The most important ability is availability"
+
 
 Reusability, Reproducability, Observability, 
 
