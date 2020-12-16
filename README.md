@@ -728,6 +728,11 @@ To support Machine Learning loops, an adaptive system must support:
   * Collaboration 
   * Automation
   * Measurement
+ 
+ This means:
+   *
+   * Equal support for prototyping and production 
+      * This is a very common problem we observe at large organizations - they focus their energy on either prototyping or producitonizing machine learning models at the expense of the other end of the specturm. They tend to believe they have reached a done state when they stand-up one functionality or the other, not realizing both prototyping and production activities live in full cohesion in a well-architected machine learning framework.  
   
 An adaptive system is just that - flexible enough to change with the model/architecture demands of your fluxuating data; flexible enough to allow for teams to change directions when the winds change. 
 
