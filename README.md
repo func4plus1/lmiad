@@ -625,6 +625,7 @@ and devise a test statistic which is sensitive to this sort of mis-specification
     * great for IOT/mobile
    * [Tonic](https://github.com/hyperium/tonic) - gRPC in Rust based on [Hyper](https://github.com/hyperium/hyper)/[Tokio](https://github.com/tokio-rs/tokio)
     
+ [Linkerd](https://linkerd.io/) | [Code](https://github.com/linkerd/linkerd2)
 
 [Linux Foundation Ai & Data](https://lfaidata.foundation/)
 
