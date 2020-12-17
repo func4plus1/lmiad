@@ -632,6 +632,10 @@ and devise a test statistic which is sensitive to this sort of mis-specification
 
 [Onnx](https://onnx.ai/) - Open Neural Network Exchange
 
+[OCI[(https://opencontainers.org/) - Open Container Initiative: Open governance structure for the express purpose of creating open industry standards around container formats and runtimes.
+
+Established in June 2015 by Docker and other leaders in the container industry, the OCI currently contains two specifications: the Runtime Specification (runtime-spec) and the Image Specification (image-spec). The Runtime Specification outlines how to run a “filesystem bundle” that is unpacked on disk.
+
 ![NNEF + ONNX](nnef_onnx.png) 
 
 [Open CV](https://opencv.org/)
