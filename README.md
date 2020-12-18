@@ -612,7 +612,9 @@ and devise a test statistic which is sensitive to this sort of mis-specification
 
 ## Interesting Projects
 
-[etcd](https://etcd.io/) - A distributed, reliable key-value store for the most critical data of a distributed system written in GO. Communication between etcd machines is handled via the Raft consensus algorithm, thus it powers Kubernetes. 
+[coredns](https://coredns.io/) | [code](https://github.com/coredns/coredns) - CoreDNS is a [DNS server/forwarder](https://www.cloudflare.com/learning/dns/what-is-a-dns-server/), written in Go, that chains plugins. Each plugin performs a (DNS) function. CoreDNS is a fast and flexible DNS server. The key word here is flexible: with CoreDNS you are able to do what you want with your DNS data by utilizing plugins. If some functionality is not provided out of the box you can add it by writing a plugin.
+
+[etcd](https://etcd.io/) - A distributed, reliable key-value store for the most critical data of a distributed system written in GO. Communication between etcd machines is handled via the Raft consensus algorithm, thus it powers Kubernetes. etcd is a strongly consistent, distributed key-value store that provides a reliable way to store data that needs to be accessed by a distributed system or cluster of machines. It gracefully handles leader elections during network partitions and can tolerate machine failure, even in the leader node.
 
 [gRPC](https://grpc.io/) - Open Source RPC Framework
   * [Protocol Buffers](https://developers.google.com/protocol-buffers/docs/overview)
