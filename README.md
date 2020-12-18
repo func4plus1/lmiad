@@ -612,6 +612,8 @@ and devise a test statistic which is sensitive to this sort of mis-specification
 
 ## Interesting Projects
 
+[etcd](https://etcd.io/) - A distributed, reliable key-value store for the most critical data of a distributed system written in GO. Communication between etcd machines is handled via the Raft consensus algorithm, thus it powers Kubernetes. 
+
 [gRPC](https://grpc.io/) - Open Source RPC Framework
   * [Protocol Buffers](https://developers.google.com/protocol-buffers/docs/overview)
     * fully typed
