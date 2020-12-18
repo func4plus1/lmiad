@@ -643,6 +643,8 @@ and devise a test statistic which is sensitive to this sort of mis-specification
 
 Established in June 2015 by Docker and other leaders in the container industry, the OCI currently contains two specifications: the Runtime Specification (runtime-spec) and the Image Specification (image-spec). The Runtime Specification outlines how to run a “filesystem bundle” that is unpacked on disk.
 
+[Operator Framework](https://operatorframework.io/) - The Operator Framework is an open source toolkit to manage Kubernetes native applications, called [Operators](https://operatorframework.io/what/), in an effective, automated, and scalable way.
+
 ![NNEF + ONNX](nnef_onnx.png) 
 
 [Open CV](https://opencv.org/)
