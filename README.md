@@ -701,6 +701,9 @@ General Purpose GPU (GPGPU)
 
 [GitOps or Git Operations Version Control](https://stackoverflow.blog/2020/05/29/why-kubernetes-getting-so-popular/). With this approach, you can keep all your Kubernetes YAML files under git repositories, which allows you to know precisely when a change was made, who made the change, and what exactly changed. This leads to more transparency across the organization and improves efficiency by avoiding ambiguity as to where members need to go to find what they need. At the same time, it can make it easier to automatically make changes to Kubernetes resources by just merging a pull request.
 
+[Kubernetes](https://kubernetes.io/) | [c0de](https://github.com/kubernetes/kubernetes) - is an open-source system for automating deployment, scaling, and management of containerized applications.
+ * 
+
 Transformers
 
 [The Illustrated Transformer](http://jalammar.github.io/illustrated-transformer/)
