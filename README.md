@@ -647,7 +647,7 @@ Kubernetes:
 
 [Parquet](https://parquet.apache.org/) - Columnar storage format available to any project in the Hadoop ecosystem, regardless of the choice of data processing framework, data model or programming language.
 
-[Tikv](https://tikv.org/)
+[Tikv](https://tikv.org/) - TiKV is an open-source, distributed, and transactional key-value database. Unlike other traditional NoSQL systems, TiKV not only provides classical key-value APIs, but also transactional APIs with ACID compliance. Built in Rust and powered by Raft. Graduated from the Cloud Native Foundation.
 
 
 ## Interesting Code
