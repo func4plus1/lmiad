@@ -612,12 +612,6 @@ and devise a test statistic which is sensitive to this sort of mis-specification
 
 ## Interesting Projects
 
-[coredns](https://coredns.io/) | [code](https://github.com/coredns/coredns) - CoreDNS is a [DNS server/forwarder](https://www.cloudflare.com/learning/dns/what-is-a-dns-server/), written in Go, that chains plugins. Each plugin performs a (DNS) function. CoreDNS is a fast and flexible DNS server. The key word here is flexible: with CoreDNS you are able to do what you want with your DNS data by utilizing plugins. If some functionality is not provided out of the box you can add it by writing a plugin.
-
-[etcd](https://etcd.io/) - A distributed, reliable key-value store for the most critical data of a distributed system written in GO. Communication between etcd machines is handled via the Raft consensus algorithm, thus it powers Kubernetes. 
-    * etcd is a strongly consistent, distributed key-value store that provides a reliable way to store data that needs to be accessed by a distributed system or cluster of machines. It gracefully handles leader elections during network partitions and can tolerate machine failure, even in the leader node. 
-    * Acts as the single source of truth (SSOT) for all components of the Kubernetes cluster. The master queries etcd to retrieve various parameters of the state of the nodes, pods and containers.
-
 [gRPC](https://grpc.io/) - Open Source RPC Framework
   * [Protocol Buffers](https://developers.google.com/protocol-buffers/docs/overview)
     * fully typed
@@ -629,21 +623,23 @@ and devise a test statistic which is sensitive to this sort of mis-specification
     * save bandwidth over json
     * Binary format less CPU intensive than human readable JSON
     * great for IOT/mobile
-   * [Tonic](https://github.com/hyperium/tonic) - gRPC in Rust based on [Hyper](https://github.com/hyperium/hyper)/[Tokio](https://github.com/tokio-rs/tokio)
+  * [Tonic](https://github.com/hyperium/tonic) - gRPC in Rust based on [Hyper](https://github.com/hyperium/hyper)/[Tokio](https://github.com/tokio-rs/tokio)
     
- [Linkerd](https://linkerd.io/) | [Code](https://github.com/linkerd/linkerd2)
+
+Kubernetes:
+  * [coredns](https://coredns.io/) | [code](https://github.com/coredns/coredns) - CoreDNS is a [DNS server/forwarder](https://www.cloudflare.com/learning/dns/what-is-a-dns-server/), written in Go, that chains plugins. Each plugin performs a (DNS) function. CoreDNS is a fast and flexible DNS server. The key word here is flexible: with CoreDNS you are able to do what you want with your DNS data by utilizing plugins. If some functionality is not provided out of the box you can add it by writing a plugin.
+  * [etcd](https://etcd.io/) - A distributed, reliable key-value store for the most critical data of a distributed system written in GO. Communication between etcd machines is handled via the Raft consensus algorithm, thus it powers Kubernetes. 
+    * etcd is a strongly consistent, distributed key-value store that provides a reliable way to store data that needs to be accessed by a distributed system or cluster of machines. It gracefully handles leader elections during network partitions and can tolerate machine failure, even in the leader node. 
+    * Acts as the single source of truth (SSOT) for all components of the Kubernetes cluster. The master queries etcd to retrieve various parameters of the state of the nodes, pods and containers.
+  * [Linkerd](https://linkerd.io/) | [Code](https://github.com/linkerd/linkerd2)
+  * [OCI](https://opencontainers.org/) - Open Container Initiative: Open governance structure for the express purpose of creating open industry standards around container formats and runtimes. Established in June 2015 by Docker and other leaders in the container industry, the OCI currently contains two specifications: the Runtime Specification (runtime-spec) and the Image Specification (image-spec). The Runtime Specification outlines how to run a “filesystem bundle” that is unpacked on disk.
+  * [Operator Framework](https://operatorframework.io/) - The Operator Framework is an open source toolkit to manage Kubernetes native applications, called [Operators](https://operatorframework.io/what/), in an effective, automated, and scalable way.
 
 [Linux Foundation Ai & Data](https://lfaidata.foundation/)
 
 [NNEF - Neural Network Exchange Format](https://www.khronos.org/nnef) - The goal of NNEF is to enable data scientists and engineers to easily transfer trained networks from their chosen training framework into a wide variety of inference engines. NNEF has been designed to be reliably exported and imported across tools and engines such as Torch, Caffe, TensorFlow, Theano, Chainer, Caffe2, PyTorch, and MXNet. 
 
 [Onnx](https://onnx.ai/) - Open Neural Network Exchange
-
-[OCI[(https://opencontainers.org/) - Open Container Initiative: Open governance structure for the express purpose of creating open industry standards around container formats and runtimes.
-
-Established in June 2015 by Docker and other leaders in the container industry, the OCI currently contains two specifications: the Runtime Specification (runtime-spec) and the Image Specification (image-spec). The Runtime Specification outlines how to run a “filesystem bundle” that is unpacked on disk.
-
-[Operator Framework](https://operatorframework.io/) - The Operator Framework is an open source toolkit to manage Kubernetes native applications, called [Operators](https://operatorframework.io/what/), in an effective, automated, and scalable way.
 
 ![NNEF + ONNX](nnef_onnx.png) 
 
