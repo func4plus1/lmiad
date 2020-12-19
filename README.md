@@ -701,8 +701,16 @@ General Purpose GPU (GPGPU)
 
 [GitOps or Git Operations Version Control](https://stackoverflow.blog/2020/05/29/why-kubernetes-getting-so-popular/). With this approach, you can keep all your Kubernetes YAML files under git repositories, which allows you to know precisely when a change was made, who made the change, and what exactly changed. This leads to more transparency across the organization and improves efficiency by avoiding ambiguity as to where members need to go to find what they need. At the same time, it can make it easier to automatically make changes to Kubernetes resources by just merging a pull request.
 
-[Kubernetes](https://kubernetes.io/) | [c0de](https://github.com/kubernetes/kubernetes) - is an open-source system for automating deployment, scaling, and management of containerized applications.
- * 
+[Kubernetes](https://kubernetes.io/) | [c0de](https://github.com/kubernetes/kubernetes) - is an open-source system for automating deployment, scaling, and management of containerized applications. 
+  * Advantages of Container Depployments over VM [source](https://kubernetes.io/docs/concepts/overview/what-is-kubernetes/): 
+    * Continuous development, integration, and deployment: provides for reliable and frequent container image build and deployment with quick and easy rollbacks (due to image immutability).
+    * Dev and Ops separation of concerns: create application container images at build/release time rather than deployment time, thereby decoupling applications from infrastructure.
+    * Environmental consistency across development, testing, and production: Runs the same on a laptop as it does in the cloud.
+    * Cloud and OS distribution portability: Runs on Ubuntu, RHEL, CoreOS, on-premises, on major public clouds, and anywhere else.
+    * Loosely coupled, distributed, elastic, liberated micro-services: applications are broken into smaller, independent pieces and can be deployed and managed dynamically – not a monolithic stack running on one big single-purpose machine.
+    * Resource isolation: predictable application performance.
+    * Resource utilization: high efficiency and density.
+
 
 Transformers
 
