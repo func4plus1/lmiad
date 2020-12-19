@@ -772,7 +772,7 @@ General Purpose GPU (GPGPU)
        * maintains network rules on nodes 
        * These network rules allow network communication to your Pods from network sessions inside or outside of your cluster.
         * implments part of the [Kubernetes Service](https://kubernetes.io/docs/concepts/services-networking/service/) concept.
-          * In Kubernetes, a Service is an abstraction which defines a logical set of Pods and a policy by which to access them (sometimes this pattern is called a micro-service)
+          * In Kubernetes, a [Service](https://youtu.be/T4Z7visMM4E) is an abstraction which defines a logical set of Pods and a policy by which to access them (sometimes this pattern is called a micro-service)
           * With Kubernetes you don't need to modify your application to use an unfamiliar service discovery mechanism.
           * Kuebernets can: 
             * gives Pods their own IP addresses 
