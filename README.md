@@ -721,7 +721,8 @@ General Purpose GPU (GPGPU)
       * The control plane's components make global decisions about the cluster (for example, scheduling), as well as detecting and responding to cluster events (for example, starting up a new pod when a deployment's replicas field is unsatisfied).
       * Control Plane Components:
         * [kube-apiserver](https://kubernetes.io/docs/reference/command-line-tools-reference/kube-apiserver/):
-          * Exposes the Kubernetes API.
+          * Exposes the Kubernetes API.The resources available to those applications
+          * The policies around how those applications behave, such as restart policies, upgrades, and fault-tolerance
           * Designed to scale horizontally—that is, it scales by deploying more instances. 
           * You can run several instances of kube-apiserver and balance traffic between those instances.
           * services REST operations 
@@ -735,6 +736,24 @@ General Purpose GPU (GPGPU)
           * inter-workload interference
           * deadlines 
         * [kube-controller manager](https://kubernetes.io/docs/concepts/overview/components/#kube-controller-manager)
+          * runs controller processes
+            * a control loop is a non-terminating loop that regulates the state of a system.
+            * In Kubernetes, controllers are control loops that watch the state of your cluster, then make or request changes where needed.
+            * Each controller tries to move the current cluster state closer to the desired state.
+            * A controller tracks at least one Kubernetes resource type. 
+            * These [objects](https://kubernetes.io/docs/concepts/overview/working-with-objects/kubernetes-objects/#kubernetes-objects) have a spec field that represents the desired state. 
+              * Kubernetes objects are persistent entities in the Kubernetes system
+              * Kubernetes uses these entities to represent the state of your cluster.
+              * The Kubernetes control plane continually and actively manages every object's actual state to match the desired state you supplied
+              * Objects can describe:
+                * What containerized applications are running (and on which nodes)
+                * The resources available to those applications
+                * The policies around how those applications behave, such as restart policies, upgrades, and fault-tolerance
+              * A Kubernetes object is a "record of intent"--once you create the object, the Kubernetes system will constantly work to ensure that object exists.
+              * By creating an object, you're effectively telling the Kubernetes system what you want your cluster's workload to look like; this is your cluster's desired state.
+              * Almost every Kubernetes object includes two nested object fields that govern the object's configuration: 
+                * **object spec** - a description of the characteristics you want the resource to have: its desired state.
+                * **object status** - The status describes the current state of the object, supplied and updated by the Kubernetes system and its components.
 
 
 
