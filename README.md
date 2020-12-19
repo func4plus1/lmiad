@@ -624,6 +624,9 @@ and devise a test statistic which is sensitive to this sort of mis-specification
     * Binary format less CPU intensive than human readable JSON
     * great for IOT/mobile
   * [Tonic](https://github.com/hyperium/tonic) - gRPC in Rust based on [Hyper](https://github.com/hyperium/hyper)/[Tokio](https://github.com/tokio-rs/tokio)
+  * [gRPC Gateway](https://github.com/grpc-ecosystem/grpc-gateway) - gRPC to JSON proxy generator following the gRPC HTTP spec, turning gRPC into Rest when necessary.  It reads protobuf service definitions and generates a reverse-proxy server which translates a RESTful HTTP API into gRPC. This helps you provide your APIs in both gRPC and RESTful style at the same time.
+
+
     
 
 Kubernetes:
