@@ -769,7 +769,20 @@ General Purpose GPU (GPGPU)
           * takes **PodSpecs** and ensures that the containers described in specs are running and healthy
      * [kube-proxy](https://kubernetes.io/docs/concepts/overview/components/#kube-proxy):
        * network proxy that runs on each node in your cluster
-       * implments part of the Kubernetes Service concept.
+       * maintains network rules on nodes 
+       * These network rules allow network communication to your Pods from network sessions inside or outside of your cluster.
+        * implments part of the [Kubernetes Service](https://kubernetes.io/docs/concepts/services-networking/service/) concept.
+          * In Kubernetes, a Service is an abstraction which defines a logical set of Pods and a policy by which to access them (sometimes this pattern is called a micro-service)
+          * With Kubernetes you don't need to modify your application to use an unfamiliar service discovery mechanism.
+          * Kuebernets can: 
+            * gives Pods their own IP addresses 
+            * give a single DNS name for a set of Pods
+            * load-balance across them
+      * [container run-time](https://kubernetes.io/docs/concepts/overview/components/#container-runtime) - responsible for running containers 
+        * Kubernetes supports:
+          * [docker](https://www.docker.com/) - until [version 1.2.0](https://kubernetes.io/blog/2020/12/02/dont-panic-kubernetes-and-docker/)
+          * [containerd](https://containerd.io/)
+          * [cri-o](https://cri-o.io/)
 
 
 
