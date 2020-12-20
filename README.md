@@ -618,6 +618,8 @@ and devise a test statistic which is sensitive to this sort of mis-specification
 
 ![Flink Architecture](https://flink.apache.org/img/flink-home-graphic.png)
 
+![Netflix Flink Based Architecture](netflix_flink_2019.png)
+
 [gRPC](https://grpc.io/) - Open Source RPC Framework
   * [Protocol Buffers](https://developers.google.com/protocol-buffers/docs/overview)
     * fully typed
