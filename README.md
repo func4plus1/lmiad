@@ -840,6 +840,8 @@ The Zephyr OS is based on a small-footprint kernel designed for use on resource-
 
 # ML Ops
 
+[Uber's ML-Ops Solution - Michaelangelo](https://eng.uber.com/michelangelo-machine-learning-platform/) 
+
 ![Data Science Infrastructure](data_science_infrastructure.png)
 
 To support Machine Learning loops, an adaptive system must support:
