@@ -615,6 +615,12 @@ and devise a test statistic which is sensitive to this sort of mis-specification
 [Flink](https://flink.apache.org/) - Stateful Computations over Data Streams
   * The work initiated in Flink 1.9 to bring full Python support to the Table API will continue in the upcoming releases
   * Integrating Pandas as the final effort (for Python Integration) — that is, making functions in Pandas directly usable in the Python Table API
+    * support for stream and batch processing
+      * True real-time versus Sparks batched near real-time 
+      * Real time due to windowing and check-pointing
+    * sophisticated state management
+    * event-time processing semantics
+    * exactly-once consistency guarantees for state.
 
 ![Flink Architecture](https://flink.apache.org/img/flink-home-graphic.png)
 
