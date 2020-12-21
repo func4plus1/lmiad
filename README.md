@@ -661,6 +661,11 @@ Kubernetes:
 [NNEF - Neural Network Exchange Format](https://www.khronos.org/nnef) - The goal of NNEF is to enable data scientists and engineers to easily transfer trained networks from their chosen training framework into a wide variety of inference engines. NNEF has been designed to be reliably exported and imported across tools and engines such as Torch, Caffe, TensorFlow, Theano, Chainer, Caffe2, PyTorch, and MXNet. 
 
 [Onnx](https://onnx.ai/) - Open Neural Network Exchange
+  * ONNX is an open specification that is comprised of the following components:
+    * A definition of an extensible computation graph model.
+    * Definitions of standard data types.
+    * Definitions of built-in operators.
+  * To simplify framework compatibility, ONNX is [defined using the subset of protobuf that is compatible with both protobuf v2 and v3](https://github.com/onnx/onnx/blob/master/onnx/onnx.proto3). This means that we do not use any protobuf features that are only available in one of the two versions.
 
 ![NNEF + ONNX](nnef_onnx.png) 
 
