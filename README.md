@@ -709,6 +709,18 @@ Kubernetes:
 AutoRegression
 * [Example in Python](https://machinelearningmastery.com/autoregression-models-time-series-forecasting-python/)
 
+Chaos Engineering
+
+> Chaos Engineering is a disciplined approach to identifying failures before they become outages. By proactively testing how a system responds under stress, you can identify and fix failures before they end up in the news...You literally “break things on purpose” to learn how to build more resilient systems. [source](https://www.gremlin.com/community/tutorials/chaos-engineering-the-history-principles-and-practice/)
+
+> Chaos Engineering involves running thoughtful, planned experiments that teach us how our systems behave in the face of failure. [source](https://www.gremlin.com/community/tutorials/chaos-engineering-the-history-principles-and-practice/)
+
+![Chaos Engineering History - Gremlin](https://res.cloudinary.com/gremlin/image/upload/t_default,f_auto/principles_of_Chaos_Engineering.png)
+
+NetFlix is the gold standard in resiliance. [They believe](https://netflixtechblog.com/5-lessons-weve-learned-using-aws-1f2a28588e4c) that "The best way to avoid failure is to fail constantly"  and that if they aren't "constantly testing our ability to succeed despite failure, then it isn’t likely to work when it matters most — in the event of an unexpected outage." 
+
+---
+
 Cross Validation 
 * [Video Explanation](https://www.youtube.com/embed/TIgfjmp-4BA)
 * K-Fold (Leave One Out) [Video Explained](https://www.youtube.com/embed/6dbrR-WymjI)
