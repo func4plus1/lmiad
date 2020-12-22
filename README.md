@@ -711,6 +711,10 @@ AutoRegression
 
 Chaos Engineering
 
+> Chaos Engineering is the discipline of experimenting on a system in order to build confidence in the system’s capability to withstand turbulent conditions in production. [Principles of Chaos Engineering](https://principlesofchaos.org/) 
+
+> Answering the question: How much confidence we can have in the complex systems that we put into production? [Principles of Chaos Engineering](https://principlesofchaos.org/) 
+
 > Chaos Engineering is a disciplined approach to identifying failures before they become outages. By proactively testing how a system responds under stress, you can identify and fix failures before they end up in the news...You literally “break things on purpose” to learn how to build more resilient systems. [source](https://www.gremlin.com/community/tutorials/chaos-engineering-the-history-principles-and-practice/)
 
 > Chaos Engineering involves running thoughtful, planned experiments that teach us how our systems behave in the face of failure. [source](https://www.gremlin.com/community/tutorials/chaos-engineering-the-history-principles-and-practice/)
@@ -718,6 +722,20 @@ Chaos Engineering
 ![Chaos Engineering History - Gremlin](https://res.cloudinary.com/gremlin/image/upload/t_default,f_auto/principles_of_Chaos_Engineering.png)
 
 NetFlix is the gold standard in resiliance. [They believe](https://netflixtechblog.com/5-lessons-weve-learned-using-aws-1f2a28588e4c) that "The best way to avoid failure is to fail constantly"  and that if they aren't "constantly testing our ability to succeed despite failure, then it isn’t likely to work when it matters most — in the event of an unexpected outage." 
+
+Organizations that practice Chaos Engineering:
+ * NetFlix
+ * LinkedIn
+ * Facebook
+ * Google
+ * Microsoft
+ * Amazon
+ * [National Australian Bank](https://www.itnews.com.au/news/nab-deploys-chaos-monkey-to-kill-servers-24-7-382285)
+ * [Starling Bank](https://www.infoq.com/articles/chaos-testing-starling-bank/)
+
+[Amazon Fault Injection Simulator](https://aws.amazon.com/fis/)
+ 
+ Chaos Engineering [in Banking](https://www.gremlin.com/blog/building-more-reliable-financial-systems-with-chaos-engineering/)
 
 ---
 
