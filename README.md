@@ -239,6 +239,8 @@ Records](https://arxiv.org/ftp/arxiv/papers/1903/1903.09296.pdf)
 
 (1942) [Some Observations on the Simple Neuron Circuit](https://doi.org/10.1007/BF02477942)
 
+(1936) [On Computable Numbers, With an Application to the ENTSCHEIDUNGS PROBLEM - Turing](http://www.cs.virginia.edu/~robins/Turing_Paper_1936.pdf)
+
 (1933) [Foundations of the Theory of Probability](https://www.york.ac.uk/depts/maths/histstat/kolmogorov_foundations.pdf)
 
 (1913) [An Example of Statistical Investigation in the text of 'Eugene Onegin' illustrating coupling of 'tests' in chains](http://www.alpha60.de/research/markov/DavidLink_AnExampleOfStatistical_MarkovTrans_2007.pdf)
