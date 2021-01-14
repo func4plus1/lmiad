@@ -34,6 +34,10 @@ in the mirror to see an example of an intelligent system",
 > "AI systematizes and automates intellectual tasks."
 
 
+# Articles
+
+(2002) [The Flaw of Averages - HBR](https://hbr.org/2002/11/the-flaw-of-averages)
+
 # References
 
 (2020) [The Well Archicted Framework - Machine Learning Lens](https://d1.awsstatic.com/whitepapers/architecture/wellarchitected-Machine-Learning-Lens.pdf)
