@@ -860,6 +860,14 @@ Support Vector Machines
 
 # Edge ML
 
+[TensorFlow Lite Micro: Embedded Machine Learning on TinyML Systems](https://arxiv.org/pdf/2010.08678.pdf)
+
+> The core runtime just fits in 16 KB on an Arm Cortex M3 and can run many basic models.It doesn't require operating system support, any standard C or C++ libraries, or dynamic memory allocation.
+> TensorFlow Lite for Microcontrollers is written in C++ 11 and requires a 32-bit platform.
+> TensorFlow Lite for Microcontrollers currently supports a limited subset of TensorFlow operations, which impacts the model architectures that it is possible to run
+> The supported operations can be seen in the file all_ops_resolver.cc
+
+
 What is Edge ML? "Embedded real-time optimization" (as described in *Convex Optimization")
 
 [K3s - Certified Kubernetes for Edge + IoT](https://k3s.io/)
