@@ -8,7 +8,9 @@
     - [Markov](#markov)
     - [Support Vector Machines](#support-vector-machines)
 - [Deep Learning](#deep-learning)
+- [Edge ML](#edge-ml)
 - [MLOps](#mlops)
+    - [Chaos Engineering](#chaos-engineering) 
     - [Kubernetes](#kubernetes)
     - [Well Architected Machine Learning Framework](#well-architected-machine-learning-framework)
 - [PyTorch](#pytorch)
@@ -30,6 +32,8 @@ coming soon
 coming soon 
 
 ## Deep Learning
+
+## Edge ML
 
 ## MLOps
 
