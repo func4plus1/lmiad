@@ -17,16 +17,11 @@
 - [References](#references) 
 
 
-## Ai Tools
-
+## Algorithms
 
 > "If a machine is expected to be infallible, it cannot also be intelligent.”  - Alan Turing
 
-### PyTorch
-
-### TensorFlow
-
-## Algorithms
+![Al Gore](algore.gif)
 
 ### Clustering
 coming soon
@@ -205,9 +200,11 @@ The end-to-end machine learning process includes the following phases:
 * Business Evaluation
 * Production Deployment (Model Deployment and Model Inference)
 
+## ML Tools
 
-## PyTorch
-coming soon 
+### PyTorch
+
+### TensorFlow
 
 ## References 
 
