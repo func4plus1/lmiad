@@ -1,4 +1,6 @@
-# Learning Machine Intelligence Artificially Deep: An Archaeology of Machine Being
+# Awesome Machine Learning [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
+
+  - [Well Architected Machine Learning Framework](#well-architected-machine-learning-framework)
 
 > "If a machine is expected to be infallible, it cannot also be intelligent.”  - Alan Turing
 
@@ -250,9 +252,7 @@ Records](https://arxiv.org/ftp/arxiv/papers/1903/1903.09296.pdf)
 (1913) [An Example of Statistical Investigation in the text of 'Eugene Onegin' illustrating coupling of 'tests' in chains](http://www.alpha60.de/research/markov/DavidLink_AnExampleOfStatistical_MarkovTrans_2007.pdf)
 
 
-# Notes 
-
-## (2020) [The Well Archicted Framework - Machine Learning Lens](https://d1.awsstatic.com/whitepapers/architecture/wellarchitected-Machine-Learning-Lens.pdf)
+## [Well Archicted Machine Learning Frameworkr](https://d1.awsstatic.com/whitepapers/architecture/wellarchitected-Machine-Learning-Lens.pdf)
 
 The Machine Learning Jouney often has three major outposts:
 
