@@ -1,8 +1,5 @@
 # Awesome Machine Intelligence [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
-- [Ai Tools](#ai-tools)
-    - [PyTorch](#pytorch)
-    - [TensorFlow](#tensorflow)
 - [Algorithms](#algorithms)
     - [Clustering](#clustering)
     - [Markov](#markov)
@@ -13,7 +10,9 @@
     - [Chaos Engineering](#chaos-engineering) 
     - [Kubernetes](#kubernetes)
     - [Well Architected Machine Learning Framework](#well-architected-machine-learning-framework)
-- [PyTorch](#pytorch)
+- [ML Tools](#ai-tools)
+    - [PyTorch](#pytorch)
+    - [TensorFlow](#tensorflow)
 - [References](#references) 
 
 
