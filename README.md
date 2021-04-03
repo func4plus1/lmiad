@@ -19,6 +19,9 @@
 
 ## Ai Tools
 
+
+> "If a machine is expected to be infallible, it cannot also be intelligent.”  - Alan Turing
+
 ### PyTorch
 
 ### TensorFlow
@@ -417,11 +420,7 @@ Records](https://arxiv.org/ftp/arxiv/papers/1903/1903.09296.pdf)
 
 (1913) [An Example of Statistical Investigation in the text of 'Eugene Onegin' illustrating coupling of 'tests' in chains](http://www.alpha60.de/research/markov/DavidLink_AnExampleOfStatistical_MarkovTrans_2007.pdf)
 
-## Support Vector Machines
 
-## TensorFlow
-
-> "If a machine is expected to be infallible, it cannot also be intelligent.”  - Alan Turing
 
 # What is Artificial Intelligence
 
