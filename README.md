@@ -19,6 +19,68 @@ coming soon
 
 ## MLOps
 
+
+[Uber's ML-Ops Solution - Michaelangelo](https://eng.uber.com/michelangelo-machine-learning-platform/) 
+
+![Data Science Infrastructure](data_science_infrastructure.png)
+
+To support Machine Learning loops, an adaptive system must support:
+  * Collaboration 
+    * Collaboration is not a single recipe. A Well Architected Machine Learning Framework enables data scientists to share models, model artifacts, model metrics, (and all the elements of the ML Pipeline) without roadblocks. Flexibility is key for empowering Operational Excellence through Machine Learning Engineer and Data Scientist collaborations. 
+  * Automation
+  * Measurement
+    * Tracking the results of each stage of construction of the "story that a model tells" is perhaps the essential element of science in Machine Learning. Without rpbist end-to-end metrics at the development and production stages, Machine Learning lacks the discipline necessary to shift with a changing world.   
+ 
+ This means:
+   *
+   * Equal support for prototyping and production 
+      * This is a very common problem we observe at large organizations - they focus their energy on either prototyping or producitonizing machine learning models at the expense of the other end of the specturm. They tend to believe they have reached a done state when they stand-up one functionality or the other, not realizing both prototyping and production activities live in full cohesion in a well-architected machine learning framework.  
+   * Failure as Service - Adaptive systems are continuously testing the limits of their failover. NetFlix evolutionized stress testing with the Chaos Engineering  practice, switching failure from a subject to be avoided, towards a game to played for system improvement. 
+  
+An adaptive system is just that - flexible enough to change with the model/architecture demands of your fluxuating data; flexible enough to allow for teams to change directions when the winds change. 
+
+An infrastructure that can only support one type (and even more often -no types) of learning is all too common. Today's accurate model is tomorrows irrelevant failure. The future is a non-stationary problem - when you think you have it figured out, everything changes and your mechanism for prediction needs to be fine-tuned or reinvented. What was moderately accurate at predicting tomorrow will often not have any predictive capacity the day after tomorrow.
+
+A common Machine Learning journey mistake is believing accuracy from historical data automatically proves success. 
+
+**Backtesting accuracy is not accuracy.** 
+
+**Backtesting accuracy is not accuracy.**
+
+**Backtesting accuracy is not accuracy.**
+
+Backtesting is only valuable if you make money from being right about what already happened. Backtesting is useful for getting a gauge on how well your model predicted the past. You can hope the trends of the past are the trends of today, but that is only valuable if your needs fit within a short enough time-window to remain predictive.
+
+Curve fitting is the most dangerous game you can play in any project. When you make promises on forecasting that are based on fitting a curve (overfitting) you run the risk of losing all the confidence built in your team when the real world does not fit the curve you built. In the words of Judea Pearl - Don't be a curve fitter.
+
+> "The most important ability is availability"
+
+
+Reusability, Reproducability, Observability, 
+
+In Model execution we want to track:
+   * model run time
+   * model parameters 
+   * model metrics 
+     * can include metrics from within the events of the execution itself 
+     * example metrics - error per epoch of training; number of training epochs 
+   * tagging ontology 
+   * Execution artefacts 
+   
+Each individual model execution should be logged to a replicated/sharded database. 
+
+Thus at least two types of storage are required:
+  * Tracking store
+    * run time metrics
+    * execution metadata
+    * model parameters
+    * model metrics
+    * tags
+  * Artifact Store:
+    * Blob storage
+    * HDFS
+
+
 ![End To End ML Pipeline According to Amazon](end2endml.png)
 
 ![Blue Green Deployment](bluegreendeployment.png)
@@ -1142,64 +1204,3 @@ The Zephyr OS is based on a small-footprint kernel designed for use on resource-
 
 [Macafee Makes A Tesla Go 85MPH in a 35MPH Zone Using Model Hacking](https://www.mcafee.com/blogs/other-blogs/mcafee-labs/model-hacking-adas-to-pave-safer-roads-for-autonomous-vehicles/)
 
-# ML Ops
-
-[Uber's ML-Ops Solution - Michaelangelo](https://eng.uber.com/michelangelo-machine-learning-platform/) 
-
-![Data Science Infrastructure](data_science_infrastructure.png)
-
-To support Machine Learning loops, an adaptive system must support:
-  * Collaboration 
-    * Collaboration is not a single recipe. A Well Architected Machine Learning Framework enables data scientists to share models, model artifacts, model metrics, (and all the elements of the ML Pipeline) without roadblocks. Flexibility is key for empowering Operational Excellence through Machine Learning Engineer and Data Scientist collaborations. 
-  * Automation
-  * Measurement
-    * Tracking the results of each stage of construction of the "story that a model tells" is perhaps the essential element of science in Machine Learning. Without rpbist end-to-end metrics at the development and production stages, Machine Learning lacks the discipline necessary to shift with a changing world.   
- 
- This means:
-   *
-   * Equal support for prototyping and production 
-      * This is a very common problem we observe at large organizations - they focus their energy on either prototyping or producitonizing machine learning models at the expense of the other end of the specturm. They tend to believe they have reached a done state when they stand-up one functionality or the other, not realizing both prototyping and production activities live in full cohesion in a well-architected machine learning framework.  
-   * Failure as Service - Adaptive systems are continuously testing the limits of their failover. NetFlix evolutionized stress testing with the Chaos Engineering  practice, switching failure from a subject to be avoided, towards a game to played for system improvement. 
-  
-An adaptive system is just that - flexible enough to change with the model/architecture demands of your fluxuating data; flexible enough to allow for teams to change directions when the winds change. 
-
-An infrastructure that can only support one type (and even more often -no types) of learning is all too common. Today's accurate model is tomorrows irrelevant failure. The future is a non-stationary problem - when you think you have it figured out, everything changes and your mechanism for prediction needs to be fine-tuned or reinvented. What was moderately accurate at predicting tomorrow will often not have any predictive capacity the day after tomorrow.
-
-A common Machine Learning journey mistake is believing accuracy from historical data automatically proves success. 
-
-**Backtesting accuracy is not accuracy.** 
-
-**Backtesting accuracy is not accuracy.**
-
-**Backtesting accuracy is not accuracy.**
-
-Backtesting is only valuable if you make money from being right about what already happened. Backtesting is useful for getting a gauge on how well your model predicted the past. You can hope the trends of the past are the trends of today, but that is only valuable if your needs fit within a short enough time-window to remain predictive.
-
-Curve fitting is the most dangerous game you can play in any project. When you make promises on forecasting that are based on fitting a curve (overfitting) you run the risk of losing all the confidence built in your team when the real world does not fit the curve you built. In the words of Judea Pearl - Don't be a curve fitter.
-
-> "The most important ability is availability"
-
-
-Reusability, Reproducability, Observability, 
-
-In Model execution we want to track:
-   * model run time
-   * model parameters 
-   * model metrics 
-     * can include metrics from within the events of the execution itself 
-     * example metrics - error per epoch of training; number of training epochs 
-   * tagging ontology 
-   * Execution artefacts 
-   
-Each individual model execution should be logged to a replicated/sharded database. 
-
-Thus at least two types of storage are required:
-  * Tracking store
-    * run time metrics
-    * execution metadata
-    * model parameters
-    * model metrics
-    * tags
-  * Artifact Store:
-    * Blob storage
-    * HDFS
