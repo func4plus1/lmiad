@@ -1,6 +1,245 @@
 # Awesome Machine Learning [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
-  - [Well Architected Machine Learning Framework](#well-architected-machine-learning-framework)
+- [Clustering](#clustering)
+- [Markov](#markov)
+- [MLOps](#mlops)
+    - [Kubernetes](#kubernetes)
+    - [Well Architected Machine Learning Framework](#well-architected-machine-learning-framework)
+- [PyTorch](#pytorch)
+- [References](#references) 
+- [Support Vector Machines](#support-vector-machines)
+- [TensorFlow](#tensorflow)
+
+
+## Clustering
+coming soon
+
+## Markov
+coming soon 
+
+## MLOps
+
+### Kubernetes
+
+### Well Architected Machine Learning Framework
+
+## PyTorch
+coming soon 
+
+## References 
+
+(2020) [The Well Archicted Framework - Machine Learning Lens](https://d1.awsstatic.com/whitepapers/architecture/wellarchitected-Machine-Learning-Lens.pdf)
+
+(2020) [How To Fine-Tune BERT for Text Classification](https://arxiv.org/pdf/1905.05583.pdf)
+
+(2020) [Demystifying Parallel and Distributed Deep Learning: An In-Depth Concurrency Analysis](https://arxiv.org/pdf/1802.09941.pdf)
+
+(2020) [Generalization Through Memorization: Nearest Neighbor Language Models](https://arxiv.org/pdf/1911.00172.pdf) - [Code](https://github.com/lab-ml/nn/tree/master/labml_nn/transformers/knn)
+
+(2020) [Language Models Are Few Shot Learners](https://arxiv.org/pdf/2005.14165.pdf) | [video explanation](https://www.youtube.com/watchv=SY5PvZrJhLE&feature=youtu.be&ab_channel=YannicKilcher)
+
+(2020) [Descending Through A Crowded Valley - Benchmarking Deep Learning Optimizers](https://arxiv.org/pdf/2007.01547.pdf)
+
+(2020) [XiaoiceSing: A High-Quality and Integrated Singing Voice Synthesis System](https://arxiv.org/pdf/2006.06261.pdf)
+
+(2020) [AdaBelief Optimizer: Adapting Stepsizes by the Belief in Observed Gradients](https://arxiv.org/pdf/2010.07468.pdf)
+
+(2020) [Gaussian Error Linear Unit](https://arxiv.org/pdf/1606.08415.pdf)
+
+(2020) [Big Transfer: General Visual Representation Learning](https://arxiv.org/pdf/1912.11370.pdf)
+
+(2020) [Kafka-ML: connecting the data stream with ML/AI frameworks](https://arxiv.org/pdf/2006.04105.pdf) | [code](https://github.com/ertis-research/kafka-ml)
+
+(2020) [A Mache Learning Automated Recommendation Tool for Synthetic Biology](https://www.nature.com/articles/s41467-020-18008-4)
+
+(2020) [Sequence to function deep learning frameworks for engineered riboregulators](https://www.nature.com/articles/s41467-020-18676-2)
+
+(2020) [A Deep Learning Approach to Programmable RNA switches](https://www.nature.com/articles/s41467-020-18677-1)
+
+(2020) [Machine Learning Adoption in Blockchain-Based Smart Applications: The Challenges, and a Way Forward](https://www.researchgate.net/publication/340174274_Machine_Learning_Adoption_in_Blockchain-Based_Smart_Applications_The_Challenges_and_a_Way_Forward)
+
+(2019) [The Scientific Method in the Science of Machine Learning](https://arxiv.org/pdf/1904.10922.pdf)
+
+(2019) [FinBERT: Financial Sentiment Analysis With Pre-Trained Language Models](https://arxiv.org/pdf/1908.10063.pdf,https://github.com/ProsusAI/finBERT)
+
+(2019) [MelNet: A Generative Model for Audio in the Frequency Domain](https://arxiv.org/pdf/1906.01083.pdf) | [Code](https://github.com/Deepest-Project/MelNet)
+
+(2019) [Federated Machine Learning: Concepts and Applications](https://arxiv.org/pdf/1902.04885.pdf)
+
+(2019) [Machine Learning of Designed Translation Control Allows Predictive Pathway Optimization in Escherichia Coli](https://pubs.acs.org/doi/pdf/10.1021/acssynbio.8b00398)
+
+(2019) [Publically Available clinical BERT embeddings](https://github.com/EmilyAlsentzer/clinicalBERT)
+
+(2019) [DocBert: BERT for Document Classification](https://arxiv.org/pdf/1904.08398v3.pdf,https://github.com/castorini/hedwig)
+
+(2019) [Federated Machine Learning Concept and Application)](https://arxiv.org/pdf/1902.04885.pdf)
+
+(2019) [Patient Clustering Improves Efficiency of Federated Machine Learning to predict mortality and hospital stay time using distributed Electronic Medical
+Records](https://arxiv.org/ftp/arxiv/papers/1903/1903.09296.pdf)
+
+(2019) [Towards Federated Learning At Scale: System Design](https://arxiv.org/pdf/1902.01046.pdf)
+
+(2019) [Federated learning for mobile keyboard prediction](https://arxiv.org/pdf/1811.03604.pdf)
+
+(2019) [Managing Machine Learning Projects - Balance Potential With the Need for Guardrails](https://d1.awsstatic.com/whitepapers/aws-managing-ml-projects.pdf)
+
+(2019) [Hiearchical Transformers for Long Document Classification](https://arxiv.org/pdf/1910.10781.pdf)
+
+(2019) [BioBert: A Pretrained Biomedical Language Representation Model For Biomedical Text Mining](https://arxiv.org/pdf/1901.08746v4.pdf,https://github.com/dmis-lab/biobert)
+
+(2019) [FastSpeech: Fast, Robust and ControllableText to Speech](https://arxiv.org/pdf/1905.09263.pdf)\
+
+(2019) [Deep Learning in Spiking Neural Networks](https://arxiv.org/pdf/1804.08150.pdf)
+
+(2019) [Lessons from Two Design−Build−Test−Learn Cycles of Dodecanol Production in Escherichia coli Aided by Machine Learning](https://pubs.acs.org/doi/pdf/10.1021/acssynbio.9b00020)
+
+(2018) [Bert: Pre-training of Deep Bidirectional Transformers for Language Understanding](https://arxiv.org/pdf/1810.04805.pdf)
+
+(2018) [Optimizing Revenue Over Data Driven Assortments](https://arxiv.org/pdf/1708.05510.pdf)
+
+(2018) [Deep Learning for Singing Processing:Achievements, Challenges and Impact on Singers and Listeners](https://arxiv.org/pdf/1807.03046.pdf)
+
+(2018) [Leaf: A Federated Learning Benchmark](https://arxiv.org/pdf/1812.01097.pdf)
+
+(2018) [Applied Federated Learning: Improving Google Keyboard Query Suggestions](https://arxiv.org/pdf/1812.02903.pdf)
+
+(2018) [The Simple Essence of Automatic Differentiation](https://arxiv.org/pdf/1804.00746.pdf)
+
+(2018) [Natural TTS Synthesis by Conditioning WaveNet on Mel Spectrogram Predictions](https://arxiv.org/pdf/1712.05884.pdf) -Tacotron 2
+
+(2018) [Demystifying Parallel and Distributed Deep Learning: An In-Depth Concurrency Analysis](https://arxiv.org/pdf/1802.09941.pdf)
+
+**(2017) [Attention is All You Need](https://arxiv.org/pdf/1706.03762.pdf)**
+
+(2017) [Enriching Word Vectors With Subword Informtation](https://arxiv.org/pdf/1607.04606.pdf)
+
+(2017) [Language Modeling with Gated Convolutional Networks](https://arxiv.org/pdf/1612.08083.pdf) - Gated Linear Unit (Glu) implemented in torch.nn.functional
+
+(2017) [Attention-based Extraction of Structured Information from Street View Imagery](https://arxiv.org/pdf/1704.03549.pdf)
+
+(2016) [Federated Optimization: Distributed Machine Learning for On-Device Intelligence](https://arxiv.org/pdf/1610.02527.pdf)
+
+(2016) [Wavenet: A Generative Model For Raw Audio](https://arxiv.org/pdf/1609.03499.pdf)
+
+(2016) [Communication-Efficient Learning of Deep Networks from Decentralized Data](https://arxiv.org/pdf/1602.05629.pdf)
+
+(2016) [NEURAL MACHINE TRANSLATION BY JOINTLY LEARNING TO ALIGN AND TRANSLATE](https://arxiv.org/pdf/1409.0473)
+
+(2015) [Predicting the sequence specificities of DNA and RNA-binding proteins by deep learning](https://cpb-us-w2.wpmucdn.com/u.osu.edu/dist/0/72768/files/2019/01/2016-03-18-Predicting-the-sequence-specificities-of-DNA-and-RNA-binding-proteins-by-deep-learning-1xugui1.pdf)
+
+(2015) [Fractional Max Pooling](https://arxiv.org/pdf/1412.6071.pdf) - Implemented in torch.nn.functional
+
+(2015) [Hidden Technical Debt in Machine Learning Systems](https://papers.nips.cc/paper/2015/file/86df7dcfd896fcaf2674f757a2463eba-Paper.pdf)
+
+(2015) [Delving Deep into Rectifiers: Surpassing Human-Level Performance on ImageNet Classification](https://arxiv.org/pdf/1502.01852.pdf) | - Kaiming Normal  [torch.nn.init.py](https://github.com/pytorch/pytorch/blob/master/torch/nn/init.py#L387), Kaiming Uniform [torch.nn.init.py](https://github.com/pytorch/pytorch/blob/master/torch/nn/init.py#L387)
+
+(2014) [Neural Machine Translation By Jointly Learning to Align and Translate](https://arxiv.org/pdf/1409.0473)
+
+(2014) [Generative Adversarial Nets](https://papers.nips.cc/paper/5423-generative-adversarial-nets.pdf)
+
+(2014) [In Search of an Understandable Consensus Algorithm](https://raft.github.io/raft.pdf) | Raft Consensus Paper
+
+(2013) [Sequence to Sequence Learning With Neural Networks](https://papers.nips.cc/paper/5346-sequence-to-sequence-learning-with-neural-networks.pdf)
+
+(2013) [Linguistic Regularities in Continuous Space Word Representation](https://www.microsoft.com/en-us/research/wp-content/uploads/2016/02/rvecs.pdf)
+
+(2013) [Efficient Estimation of Word Representations in Vector Space](https://arxiv.org/pdf/1301.3781.pdf)
+
+(2012) [ImageNet Classification with Deep Convolutional Neural Networks](http://papers.nips.cc/paper/4824-imagenet-classification-with-deep-convolutional-neural-networks.pdf)
+
+(2012) [Fully Homomorphic Encryption without Bootstrapping](https://eprint.iacr.org/2011/277.pdf) | BVG Homomorphic Encryption Paper
+
+(2011) [Philosophy and the practice of Bayesian statistics](http://www.stat.columbia.edu/~gelman/research/unpublished/philosophy.pdf)
+
+(2004) [Convex Optimization](https://web.stanford.edu/~boyd/cvxbook/bv_cvxbook.pdf)
+
+(2003) [A Neural Probabilistic Language Model](http://www.jmlr.org/papers/volume3/bengio03a/bengio03a.pdf)
+
+(2001) [LIBSVM: A Library for Support Vector Machines](https://www.csie.ntu.edu.tw/~cjlin/papers/libsvm.pdf)
+
+(1999) [An Overview of Statistical Learning Theory](https://www.math.arizona.edu/~hzhang/math574m/Read/vapnik.pdf)
+
+(1999) [Bayesian Model Averaging: A Tutorial](https://projecteuclid.org/download/pdf_1/euclid.ss/1009212519)
+
+(1998) [Approximate Nearest Neighbor: Towards Reducing the Curse of Dimensionality](https://www.theoryofcomputing.org/articles/v008a014/v008a014.pdf)
+
+(1998) [A Beginners Guide to the Mathematics of Neural Networks](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.161.3556&rep=rep1&type=pdf&fbclid=IwAR1jmZJ3FBqcNLKbkyKXV3nZ3LaT12M6RoE4gW70TUrLrp-7WJe5LvjQkn4)
+
+(1998) [Sequential Minimal Optimization: A Fast Algorithm for Training Support Vector Machines](https://www.microsoft.com/en-us/research/wp-content/uploads/2016/02/tr-98-14.pdf)
+
+(1998) [Gradient-Based Learning Applied to Document Recognition](http://yann.lecun.com/exdb/publis/pdf/lecun-01a.pdf)
+
+(1996) [Natural Language Understanding](https://mil.ufl.edu/6841/admin/JAllen_1.pdf)
+
+(1995) [Support Vector Networks](https://link.springer.com/content/pdf/10.1023%2FA%3A1022627411411.pdf)
+
+(1994) [Artifical Intelligence: A Modern Approach - First Edition](https://people.eecs.berkeley.edu/~russell/aima1e.html)
+
+(1992) [A Training Algorithm for Optimal Margin Classifier](https://www.svms.org/training/BOGV92.pdf) (SVM)
+
+(1989) [Handwritten Digit Recognition with a Back-Propagration Network](http://papers.nips.cc/paper/293-handwritten-digit-recognition-with-a-back-propagation-network.pdf)
+
+(1986) [Learning and Relearning in Boltzmann Machines](http://www.cs.utoronto.ca/~hinton/absps/pdp7.pdf)
+
+(1985) [Communicating Sequential Processes](http://lass.cs.umass.edu/~shenoy/courses/677/readings/Hoare.pdf) - with a forward by Dijkstra
+
+(1983) [Optimal Perceptual Inference](https://papers.cnl.salk.edu/PDFs/Optimal%20Perceptual%20Inference%201983-646.pdf)
+
+(1982) [Neurons With Graded Response have collective computational properties like those of two state neurons](http://cogsci.ucsd.edu/~sereno/107B/readings/02.02-AttractorCont.pdf)
+
+(1981) [Parallel Models of Associative Memory](http://www.cs.utoronto.ca/~hinton/absps/semantic81.pdf)
+
+(1980) [Principles of Artifical Intelligence](https://ai.stanford.edu/~nilsson/QAI/qai.pdf)
+
+(1978) [An Introduction to Artificial Intelligence: Can Computers Think?](https://archive.org/details/AnIntroductionToArtificialIntelligence)
+
+(1972) [The Humble Programmer](https://www.cs.utexas.edu/users/EWD/ewd03xx/EWD340.PDF) - Djikstra
+
+(1971) [The Complexity of Thereom Proving Procedures](https://www.cs.toronto.edu/~sacook/homepage/1971.pdf)
+
+(1970) [Problem-Solving Methods In Artifical Intelligence](https://cse.buffalo.edu/~rapaport/572/S02/nilsson.8puzzle.pdf)
+
+(1970) [Notes On Structured Programming](https://www.cs.utexas.edu/users/EWD/ewd02xx/EWD249.PDF) - Dijikstra
+
+(1969) [Applied Optimal Control](https://archive.org/details/AppliedOptimalControl/page/n5/mode/2up)
+
+(1967) [Computation:Finite and Infinite Machines](http://www.cba.mit.edu/events/03.11.ASE/docs/Minsky.pdf)
+
+(1965) [Three Approaches to the Quantitative Definition of Information](http://alexander.shen.free.fr/library/Kolmogorov65_Three-Approaches-to-Information.pdf)
+
+(1963) [Recognition of Patterns With Help of Generalized Portraits](http://web.cs.iastate.edu/~cs573x/vapnik-portraits1963.pdf)
+
+(1962) [Applied Dynamic Programming](https://archive.org/details/applieddynamicpr00bell_0)
+
+(1958) [A Learning Machine: Part I,Friedberg](https://exhibits.stanford.edu/feigenbaum/catalog/my986yd0500)
+
+(1957) [The Perceptron: A perceiving and Recognizing Automation](https://blogs.umass.edu/brain-wars/files/2016/03/rosenblatt-1957.pdf)
+
+(1956) [Dynamic Programming](https://www.rand.org/content/dam/rand/pubs/papers/2008/P550.pdf)
+
+(1956) [Distributional Structure](https://www.tandfonline.com/doi/pdf/10.1080/00437956.1954.11659520)
+
+(1954) [Neural Nets and the Brain-Model Problem](https://web.media.mit.edu/~minsky/minskybiog.html)
+
+(1951) [Theory of Reproducing Kernels](https://people.eecs.berkeley.edu/~wainwrig/stat241b/aronszajn.pdf)
+
+(1949) [The Mathematical Theory of Communication](http://people.math.harvard.edu/~ctm/home/text/others/shannon/entropy/entropy.pdf)
+
+(1947) [Numerical Inverting of Matrices of High Order](https://projecteuclid.org/download/pdf_1/euclid.bams/1183511222) | -first scientific computing paper 
+
+(1943) [A Logical Calculus of the Ideas Immanent in Nervous Activity](https://web.csulb.edu/~cwallis/382/readings/482/mccolloch.logical.calculus.ideas.1943.pdf)
+
+(1942) [Some Observations on the Simple Neuron Circuit](https://doi.org/10.1007/BF02477942)
+
+(1936) [On Computable Numbers, With an Application to the ENTSCHEIDUNGS PROBLEM - Turing](http://www.cs.virginia.edu/~robins/Turing_Paper_1936.pdf)
+
+(1933) [Foundations of the Theory of Probability](https://www.york.ac.uk/depts/maths/histstat/kolmogorov_foundations.pdf)
+
+(1913) [An Example of Statistical Investigation in the text of 'Eugene Onegin' illustrating coupling of 'tests' in chains](http://www.alpha60.de/research/markov/DavidLink_AnExampleOfStatistical_MarkovTrans_2007.pdf)
+
+## Support Vector Machines
+
+## TensorFlow
 
 > "If a machine is expected to be infallible, it cannot also be intelligent.”  - Alan Turing
 
@@ -252,7 +491,7 @@ Records](https://arxiv.org/ftp/arxiv/papers/1903/1903.09296.pdf)
 (1913) [An Example of Statistical Investigation in the text of 'Eugene Onegin' illustrating coupling of 'tests' in chains](http://www.alpha60.de/research/markov/DavidLink_AnExampleOfStatistical_MarkovTrans_2007.pdf)
 
 
-## [Well Archicted Machine Learning Frameworkr](https://d1.awsstatic.com/whitepapers/architecture/wellarchitected-Machine-Learning-Lens.pdf)
+## [Well Archicted Machine Learning Framework](https://d1.awsstatic.com/whitepapers/architecture/wellarchitected-Machine-Learning-Lens.pdf)
 
 The Machine Learning Jouney often has three major outposts:
 
