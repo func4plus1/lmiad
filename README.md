@@ -1,21 +1,35 @@
 # Awesome Machine Learning [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
-- [Clustering](#clustering)
-- [Markov](#markov)
+- [Ai Tools](#ai-tools)
+    - [PyTorch](#pytorch)
+    - [TensorFlow](#tensorflow)
+- [Algorithms](#algorithms)
+    - [Clustering](#clustering)
+    - [Markov](#markov)
+    - [Support Vector Machines](#support-vector-machines)
+- [Deep Learning](#deep-learning)
 - [MLOps](#mlops)
     - [Kubernetes](#kubernetes)
     - [Well Architected Machine Learning Framework](#well-architected-machine-learning-framework)
 - [PyTorch](#pytorch)
 - [References](#references) 
-- [Support Vector Machines](#support-vector-machines)
-- [TensorFlow](#tensorflow)
 
 
-## Clustering
+## Ai Tools
+
+### PyTorch
+
+### TensorFlow
+
+## Algorithms
+
+### Clustering
 coming soon
 
-## Markov
+### Markov
 coming soon 
+
+## Deep Learning
 
 ## MLOps
 
