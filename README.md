@@ -108,6 +108,41 @@ Thus at least two types of storage are required:
 
 ### Kubernetes
 
+
+[Hiearchal NameSpaces](https://github.com/kubernetes-sigs/multi-tenancy/blob/master/incubator/hnc/docs/user-guide/concepts.md#basic)
+
+Namespaces are principal unit of security isolation & identity in Kubernetes control plane:
+ 
+  * Enforce **Exclusivity** - every namespaced object may belong to only one namespace
+    * 2 objects of different Kinds (for example, a Service and an Endpoint) may share same name
+    * No two objects of same Kind may share same name within a namespace
+  * Allow **Grouping**
+    *  Exclusive grouping makes them anatural target for sets of related resources.
+    * Example: namespaces are default target for various policies such as:
+      *  Role Bindings
+      *  Network Policies
+      *  Extensions to Kubernetes, such as Istio policies.
+
+**Hiearchal NameSpace Controller**: 
+
+    * Allows you to organize your namespaces into trees
+    * Allows you to apply policies to those trees (or their subtrees)
+    *  Including ability to create new namespaces within those trees.
+    * Solves:
+      * When you want many namespaces having similar policies applied to them:
+        * Difficult Because Role Bindings operate at the level of individual namespaces, you will be forced to create such Role Bindings in each namespace individually, which can be tedious and error-prone.
+      * When you might want to allow some teams to create namespaces themselves as isolation units for their own services. 
+        * Difficult because namespace creation is a privileged cluster-level operation, and you typically want to control this privilege very closely.
+
+*  every namespace may have either zero or one parent
+* A namespace with no parents is known as a **root namespace**
+*  all namespaces with the same parent are known as the children of that namespace
+* Non-root namespaces may have children of their own; there is no hard limit to the number of levels of hierarchy
+*  All namespaces that are descendants of a root namespace, along with the root itself, are called a **tree.**
+* The set of all namespaces that descend from any namespace, along with that namespace, is called a **subtree**. 
+* Namespaces without children are called **leaves.**
+* The set of all trees in the cluster is known as **the forest of namespaces.**
+
 ### Well Architected Machine Learning Framework
 
 
