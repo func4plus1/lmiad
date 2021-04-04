@@ -58,7 +58,6 @@ def k_nearest_neighbors(train, test, number_of_neighbors):
     output = predict_classification(train, row, number_of_neighbors)
     predictions.append(output)
   return predictions 
-  
 ```
 
 ### Markov
