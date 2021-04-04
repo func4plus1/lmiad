@@ -25,24 +25,42 @@
 ### Clustering
 
 
-Nearest Neighbor is the Euclidian Distanc
+Nearest Neighbor
 
-$$d(\mathbf{p},\mathbf{q}) = d(\mathbf{q},\mathbf{p}) & = \sqrt{(q_1-p_1)^2 + (q_2-p_2)^2 + \cdots + (q_n-p_n)^2} \\[8pt]
-& = \sqrt{\sum_{i=1}^n (q_i-p_i)^2}$$
+```python
 
----
----
-<h3><center>Example</center></h3> 
+def euclidian_distance(q,p):
+  distance = 0.0
+  for i in range(len(q) -1): 
+    distance += (q[i] - p[i])**2
+  return sqrt(distance)
 
-Name | Feature 1 | Feature 2
----| --- | ---
-Q | 4 | 0
-P | 6 | 6
+def get_neighbors(train, test, number_of_neighbors):
+  distances = list()
+  for train_row in train: 
+    dist = euclidian_distance(test, train_row)
+    distances.append((train_row, dist))
+  distances.sort(key=lambda tup: tup[1])
+  neighbors = list(); 
+  for i in range(number_of_neighbors):
+    neighbors.append(distances[i][0])
+  return neighbors
 
-
-<math>\begin{align}d(\mathbf{p},\mathbf{q}) = d(\mathbf{q},\mathbf{p}) & = \sqrt{(4-6)^2 + (0-6)^2} \\[8pt] & = \sqrt{(-2)^2 + (-6)^2} \\& = \sqrt{(40)} \\ & =   6.32455...
-\end{align}</math>
-
+def predict_classification(train, test, number_of_neighbors):
+  neighbors = get_neighbors(train, test , number_of_neighbors) 
+  output_values = [row[-1] for row in neighbors]
+  prediction = max(set(output_values), key=output_values.count)
+  return prediction
+  
+  
+def k_nearest_neighbors(train, test, number_of_neighbors): 
+  predictions = list()
+  for row in test: 
+    output = predict_classification(train, row, number_of_neighbors)
+    predictions.append(output)
+  return predictions 
+  
+```
 
 ### Markov
 coming soon 
