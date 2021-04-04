@@ -52,7 +52,6 @@ def predict_classification(train, test, number_of_neighbors):
   prediction = max(set(output_values), key=output_values.count)
   return prediction
   
-  
 def k_nearest_neighbors(train, test, number_of_neighbors): 
   predictions = list()
   for row in test: 
