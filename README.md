@@ -23,7 +23,25 @@
 ![Al Gore](algore.gif)
 
 ### Clustering
-coming soon
+
+
+<h2><center>Nearest Neighbor is the Euclidian Distance</center></h2>
+<math>\begin{align}d(\mathbf{p},\mathbf{q}) = d(\mathbf{q},\mathbf{p}) & = \sqrt{(q_1-p_1)^2 + (q_2-p_2)^2 + \cdots + (q_n-p_n)^2} \\[8pt]
+& = \sqrt{\sum_{i=1}^n (q_i-p_i)^2}\end{align}</math>
+
+---
+---
+<h3><center>Example</center></h3> 
+
+Name | Feature 1 | Feature 2
+---| --- | ---
+Q | 4 | 0
+P | 6 | 6
+
+
+<math>\begin{align}d(\mathbf{p},\mathbf{q}) = d(\mathbf{q},\mathbf{p}) & = \sqrt{(4-6)^2 + (0-6)^2} \\[8pt] & = \sqrt{(-2)^2 + (-6)^2} \\& = \sqrt{(40)} \\ & =   6.32455...
+\end{align}</math>
+
 
 ### Markov
 coming soon 
