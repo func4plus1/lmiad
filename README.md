@@ -25,9 +25,10 @@
 ### Clustering
 
 
-<h2><center>Nearest Neighbor is the Euclidian Distance</center></h2>
-<math>\begin{align}d(\mathbf{p},\mathbf{q}) = d(\mathbf{q},\mathbf{p}) & = \sqrt{(q_1-p_1)^2 + (q_2-p_2)^2 + \cdots + (q_n-p_n)^2} \\[8pt]
-& = \sqrt{\sum_{i=1}^n (q_i-p_i)^2}\end{align}</math>
+Nearest Neighbor is the Euclidian Distanc
+
+$$\begin{align}d(\mathbf{p},\mathbf{q}) = d(\mathbf{q},\mathbf{p}) & = \sqrt{(q_1-p_1)^2 + (q_2-p_2)^2 + \cdots + (q_n-p_n)^2} \\[8pt]
+& = \sqrt{\sum_{i=1}^n (q_i-p_i)^2}\end{align}$$
 
 ---
 ---
