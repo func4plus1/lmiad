@@ -20,6 +20,8 @@
 
 > "If a machine is expected to be infallible, it cannot also be intelligent.”  - Alan Turing
 
+
+
 ![Al Gore](algore.gif)
 
 ### Clustering
