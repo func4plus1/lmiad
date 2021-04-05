@@ -65,6 +65,11 @@ coming soon
 
 ## Deep Learning
 
+> In preparing this edition we were tempted to "bring those theories up to date." But when we found that little of significance had changed since 1969, when the book was first published, we concluded that it would be more useful to keep the original text...
+
+> One reason why progress has been so slow in this field is that researchers unfamiliar with its history have continued to make many of the same mistakes that others have made before them...
+> there has been little clear-cut change in the conceptual basis of the field. The issues that give rise to excitement today seem much the same as those that were responsible for previous rounds of excitement. The issues that were then obscure remain obscure today because no one yet knows how to tell which of the present discoveries are fundamental and which are superficial. 
+
 ## Edge ML
 
 ## MLOps
