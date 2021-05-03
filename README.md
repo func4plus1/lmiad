@@ -6,7 +6,8 @@ Machine Intelligence emphasizes the building of Intelligent systems over the stu
 
 How is this different than "Ai" or "Machine Learning"? 
 
-The first edition of *Artifical Intelligence: A Modern Approach* (commonly referred to as *AIMA*) stated AI:
+The first edition of [Artificial Intelligence: A Modern
+Approach](http://aima.cs.berkeley.edu/index.html)* (commonly referred to as *AIMA*) stated AI:
 
 > "attempts to understand intelligent entities. Thus, one reason to study it is to learn more about ourselves...AI strives to build intelligent entities as well as understand them."
 
@@ -29,36 +30,12 @@ Machine Intelligence however, is the application of Machine Learning with the in
 "intelligent entities" but to understand how far "machine entities" can be taken. If a machine entity can be taken to the nth degree it ceases to be a machine intelligence at all - it is just intelligence, with all the artificial bits removed. 
 
 
-*[Artificial Intelligence: A Modern
-Approach](http://aima.cs.berkeley.edu/index.html)* is the primary textbook through
-which many researchers have first entered the "AI" waters. 
-When it is asked: "What is Artifical Intelligence?", it is possible we all subconsciously give the
-answer embeded within the opening pages of the four editions of this ubuiquitous work. As the
-website for the book states: "The leading textbook in Artifical Intelligence,
-used in over 1400 schools in over 120 countries."
-
 The manner in which [Peter Norvig](https://norvig.com/) and [Stuart Russell](http://people.eecs.berkeley.edu/~russell/) have
 chosen to frame Artificial Intelligence over the course of their editions
 has had great influence on how AI has evolved.  The chapters they included, removed, expanded, shrank; the theories they championed or ignored; has had
 a profound effect on the conversation and ultimately our understanding of what Artificial Intelligence can and should be.
 
-The first edition of *Artifical Intelligence: A Modern Approach* (commonly referred to as *AIMA*) defined AI as a field that:
-
-> "attempts to understand intelligent entities. Thus, one reason to study it is to learn more about ourselves...AI strives to build intelligent entities as well as understand them"
-
-The second edition of *AIMA* continues the thread of building intelligence but
-interestingly drops the argument that the field is also concerned with "knowing
-thyself":
-
-> "The field of artificial intelligence...attempts not just to understand but also build intelligent entities"
-
-Wheras *AIMA* 01 makes such claims as "All the researcher has to do is look
-in the mirror to see an example of an intelligent system", 
-*AIMA* 02 replaces a human-centered approach with a rationality in which at its core 
-
-> "AI systematizes and automates intellectual tasks."
-
-Machine Intelligence, as typified by Machine Learning emphasizes the building of Intelligent systems over the study of their being. Machine Intelligence is not be understood but to applied, and in that application we can infer an understanding - by looking at it. "AI" tries to imagine it conceptually - "ML" attempts to build it, but fails in anything higher when it becomes curve fitting for tricks. When ML is teaching a very advanced dog to sit at the chess table and never roll over, it fails to actually be interesting. 
+ML fails when it becomes curve fitting for tricks. When ML is teaching a very advanced dog to sit at the chess table and never roll over, it fails to actually be interesting. 
 
 Machine Intelligence however, is the application of Machine Learning with the investigation of intelligence - the artificial is removed because the goal is not to 
 "intelligent entities" but to understand how far "machine entities" can be taken. If a machine entity can be taken to the nth degree it ceases to be a machine intelligence at all - it is just intelligence, with all the artificial bits removed. 
