@@ -2,9 +2,35 @@
 
 > "If a machine is expected to be infallible, it cannot also be intelligent.”  - Alan Turing
 
-The concepts of "Machine Intelligence" [Turing](https://academic.oup.com/mind/article/LIX/236/433/986238) and "Ai" were invtented pretty much simultaneously. 
+The concepts of "Machine Intelligence" [Turing](https://academic.oup.com/mind/article/LIX/236/433/986238) and "Ai" were invtented almost simultaneously. 
 
 ## (1950) [Computing Machinery and Intelligence](https://academic.oup.com/mind/article/LIX/236/433/986238) - Turing
+
+> "Can Machines Think?" 
+
+Answer: The Imitation Game
+
+3 People with three people:
+* (A) Man
+* (B) Woman
+* (C) Interrogator 
+ 
+Interrogator stays in a room apart from the other two.
+
+Interrogator object of the game -- to determine which of the other two is the man
+and which is the woman. He knows them by labels X and Y, and at the end
+of the game he says either ‘X is A and Y is B’ or ‘X is B and Y is A’. 
+
+A’s object of the game to try and cause C to make the wrong identification.
+
+Object of the game for the third player (B) is to help the interrogator. 
+
+> ‘What will happen when a machine takes the part of A in this game?’ Will the interrogator decide wrongly as often
+when the game is played like this as he does when the game is played between a man and a woman? These questions replace our original, ‘Can machines think?’
+
+> The game may perhaps be criticised on the ground that the odds are weighted too heavily against the machine. If the man were to try and pretend to be the machine he would clearly make a very poor showing.
+
+---
 
 Machine Intelligence emphasizes the building of Intelligent systems over the study of their being. 
 
