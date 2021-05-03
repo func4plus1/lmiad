@@ -2,6 +2,8 @@
 
 > "If a machine is expected to be infallible, it cannot also be intelligent.”  - Alan Turing
 
+The concepts of "Machine Intelligence" [Turing](https://academic.oup.com/mind/article/LIX/236/433/986238) and "Ai" were invtented pretty much simultaneously. 
+
 ## (1950) [Computing Machinery and Intelligence](https://academic.oup.com/mind/article/LIX/236/433/986238) - Turing
 
 Machine Intelligence emphasizes the building of Intelligent systems over the study of their being. 
