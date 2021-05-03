@@ -2,6 +2,7 @@
 
 - [Algorithms](#algorithms)
     - [Clustering](#clustering)
+    - [GANS](#GANS)
     - [Markov](#markov)
     - [Support Vector Machines](#support-vector-machines)
 - [Deep Learning](#deep-learning)
@@ -61,6 +62,8 @@ def k_nearest_neighbors(train, test, number_of_neighbors):
     predictions.append(output)
   return predictions 
 ```
+
+### GANS
 
 ### Markov
 coming soon 
