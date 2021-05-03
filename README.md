@@ -1,26 +1,6 @@
 # Awesome Machine Intelligence [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
-- [Algorithms](#algorithms)
-    - [Clustering](#clustering)
-    - [GANS](#GANS)
-    - [Markov](#markov)
-    - [Support Vector Machines](#support-vector-machines)
-- [Deep Learning](#deep-learning)
-- [Edge ML](#edge-ml)
-- [MLOps](#mlops)
-    - [Chaos Engineering](#chaos-engineering) 
-    - [Kubernetes](#kubernetes)
-    - [Well Architected Machine Learning Framework](#well-architected-machine-learning-framework)
-- [ML Tools](#ai-tools)
-    - [PyTorch](#pytorch)
-    - [TensorFlow](#tensorflow)
-- [References](#references) 
-
 > "If a machine is expected to be infallible, it cannot also be intelligent.”  - Alan Turing
-
-![Al Gore](algore.gif)
-
-# What is Machine Intelligence?
 
 *[Artificial Intelligence: A Modern
 Approach](http://aima.cs.berkeley.edu/index.html)* is the primary textbook through
@@ -56,6 +36,21 @@ Machine Intelligence, as typified by Machine Learning emphasizes the building of
 Machine Intelligence however, is the application of Machine Learning with the investigation of intelligence - the artificial is removed because the goal is not to 
 "intelligent entities" but to understand how far "machine entities" can be taken. If a machine entity can be taken to the nth degree it ceases to be a machine intelligence at all - it is just intelligence, with all the artificial bits removed. 
 
+- [Algorithms](#algorithms)
+    - [Clustering](#clustering)
+    - [GANS](#GANS)
+    - [Markov](#markov)
+    - [Support Vector Machines](#support-vector-machines)
+- [Deep Learning](#deep-learning)
+- [Edge ML](#edge-ml)
+- [MLOps](#mlops)
+    - [Chaos Engineering](#chaos-engineering) 
+    - [Kubernetes](#kubernetes)
+    - [Well Architected Machine Learning Framework](#well-architected-machine-learning-framework)
+- [ML Tools](#ai-tools)
+    - [PyTorch](#pytorch)
+    - [TensorFlow](#tensorflow)
+- [References](#references) 
 
 ## Algorithms
 
