@@ -2,6 +2,33 @@
 
 > "If a machine is expected to be infallible, it cannot also be intelligent.”  - Alan Turing
 
+Machine Intelligence emphasizes the building of Intelligent systems over the study of their being. 
+
+How is this different than "Ai" or "Machine Learning"? 
+
+The first edition of *Artifical Intelligence: A Modern Approach* (commonly referred to as *AIMA*) stated AI:
+
+> "attempts to understand intelligent entities. Thus, one reason to study it is to learn more about ourselves...AI strives to build intelligent entities as well as understand them."
+
+The second edition of *AIMA* continues the thread of building intelligence but interestingly drops the argument that the field is also concerned with "knowing
+thyself":
+
+> "The field of artificial intelligence...attempts not just to understand but also build intelligent entities"
+
+Wheras *AIMA* 01 makes such claims as "All the researcher has to do is look in the mirror to see an example of an intelligent system",  *AIMA* 02 replaces a human-centered approach with a rationality in which at its core:
+
+> "AI systematizes and automates intellectual tasks."
+
+Where "AI" began from a search for the (hu)man in the mirror, it evolved (devolved?) into an automation for intellectuality, but in many ways it has never shed the stink of its attempt to make the automotrons of think. "Ai" is on a perpetual swing from the need to see what is in the mirror, to the other end of the spectrum of smashing the mirror, pouring gasoline on the computer and escaping to caves waiting for SkyNet to infiltrate the resistance.
+
+"AI" tries to imagine it conceptually - "ML" attempts to build it, but fails in anything higher when it becomes curve fitting for tricks. When ML is teaching a very advanced dog to sit at the chess table and never roll over, it fails to actually be interesting. 
+
+Machine Intelligence is not be understood but to be applied, and in that application we can infer an understanding - by looking at it.
+
+Machine Intelligence however, is the application of Machine Learning with the investigation of intelligence - the artificial is removed because the goal is not to 
+"intelligent entities" but to understand how far "machine entities" can be taken. If a machine entity can be taken to the nth degree it ceases to be a machine intelligence at all - it is just intelligence, with all the artificial bits removed. 
+
+
 *[Artificial Intelligence: A Modern
 Approach](http://aima.cs.berkeley.edu/index.html)* is the primary textbook through
 which many researchers have first entered the "AI" waters. 
