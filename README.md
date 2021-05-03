@@ -16,6 +16,10 @@
     - [TensorFlow](#tensorflow)
 - [References](#references) 
 
+> "If a machine is expected to be infallible, it cannot also be intelligent.”  - Alan Turing
+
+![Al Gore](algore.gif)
+
 # What is Machine Intelligence?
 
 *[Artificial Intelligence: A Modern
@@ -47,12 +51,13 @@ in the mirror to see an example of an intelligent system",
 
 > "AI systematizes and automates intellectual tasks."
 
+Machine Intelligence, as typified by Machine Learning emphasizes the building of Intelligent systems over the study of their being. Machine Intelligence is not be understood but to applied, and in that application we can infer an understanding - by looking at it. "AI" tries to imagine it conceptually - "ML" attempts to build it, but fails in anything higher when it becomes curve fitting for tricks. When ML is teaching a very advanced dog to sit at the chess table and never roll over, it fails to actually be interesting. 
+
+Machine Intelligence however, is the application of Machine Learning with the investigation of intelligence - the artificial is removed because the goal is not to 
+"intelligent entities" but to understand how far "machine entities" can be taken. If a machine entity can be taken to the nth degree it ceases to be a machine intelligence at all - it is just intelligence, with all the artificial bits removed. 
+
 
 ## Algorithms
-
-> "If a machine is expected to be infallible, it cannot also be intelligent.”  - Alan Turing
-
-
 
 ![Al Gore](algore.gif)
 
