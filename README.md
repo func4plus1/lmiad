@@ -4,7 +4,7 @@
 Michele Foucault
 
 > "If a machine is expected to be infallible, it cannot also be intelligent.” 
- Alan Turing
+Alan Turing
 
 The concepts of "Machine Intelligence" [Turing](https://academic.oup.com/mind/article/LIX/236/433/986238) and "Ai" were invtented almost simultaneously. 
 
