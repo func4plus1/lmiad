@@ -3,7 +3,8 @@
 > "What I am doing is something that concerns philosophy, that is to say, the politics of truth, for I do not see many other definitions of the word "philosophy" apart from this. So, insofar as what is involved in this analyis of mechanisms of power is the politics of truth, and not sociology, history or economics, I see its role as that of showing the knowledge of effects produced by the struggles, confrontations, and battles that take place within our society, and by the tactics of power that are the elements of this struggle." 
 Michele Foucault
 
-> "If a machine is expected to be infallible, it cannot also be intelligent.” Alan Turing
+> "If a machine is expected to be infallible, it cannot also be intelligent.” 
+> Alan Turing
 
 The concepts of "Machine Intelligence" [Turing](https://academic.oup.com/mind/article/LIX/236/433/986238) and "Ai" were invtented almost simultaneously. 
 
